@@ -1,7 +1,8 @@
 ---
-title: "DAS Workshop at the EBI"layout: post
+title: "DAS Workshop at the EBI"
+layout: post
 date: 2013-02-07 20:32
-tag: DAS, opensnp
+tag: DAS
 blog: true
 #star: true
 ---
