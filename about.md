@@ -25,11 +25,11 @@ Speaks Python, R & Ruby (on Rails) and even a bit of Perl. Founder of [openSNP](
 
 ---
 
-**Contact**
+**Contact**<br/>
 Bastian Greshake<br/>
 Hafeninsel 19<br/>
 63067 Offenbach am Main
 
-mail: bgreshake@gmail.com
+mail: bgreshake@gmail.com <br/>
 phone: + 49 176 213 044 66 <br/>
 twitter: [@gedankenstuecke](http://www.twitter.com/gedankenstuecke)
