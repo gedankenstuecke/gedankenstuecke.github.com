@@ -1,0 +1,13 @@
+---
+title: "openSNP"
+layout: post
+date: 2016-01-23 22:10
+tag: opensnp
+projects: true
+description: "Putting Personal Genomics Data into the Public Domain"
+---
+[*openSNP.org*](https://opensnp.org) is a platform where people share their personal genetics data sets (e.g. from *23andMe*) along with their phenotypic annotation (think eye color etc) and their quantified self data. Everything is put into the public domain and allows researchers all over the world to perform interesting science on this open and free data resource. At the same time *openSNP* mines the literature and databases to figure out what scientists have found out about our genomes.
+
+The project can be [found on GitHub](https://github.com/openSNP) and it's largely written in *Ruby on Rails*. Since 2011 over 2,500 people have shared their data on the website.
+
+If you want to get in touch you can also find [the project on Gitter](https://gitter.im/openSNP/snpr) and talk to us either there or [using our Google Group](https://groups.google.com/forum/#!forum/snpr-development). 
