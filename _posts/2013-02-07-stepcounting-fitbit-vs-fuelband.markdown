@@ -10,13 +10,13 @@ About two weeks ago I posted a comparison of the step data I've collected throug
 
 Reading those posts I noticed one difference in the way data was collected: While Austin & I did wear the Fuelband on our dominant wrists, Ernesto wore his on the non-dominant arm. My theory was that the algorithms applied in the *Fuelband* might play a role in why there might be a difference. The *Fuelband* does not only count steps but also awards *Fuel points* for activities which are not steps. So it could be that the algorithm discards valid steps if you move your dominant arm around too much while walking. Fortunately there's an easy way to test this by just wearing the *Fuelband* on the other wrist for a couple of days.
 
-![fitbit comparison](/images/ff_step_comparison.png)
+![fitbit comparison](/assets/images/ff_step_comparison.png)
 
 So I put the *Fuelband* onto my non-dominant wrist for two weeks and did the same comparison as for the *Quantified Self* posting. The graph is quite simple: The x-axis gives the different days, the y-axis gives the difference between the *Fitbit* and the *Fuelband*. On days with positive values the *Fitbit* counted more steps, on days with negative values the *Fuelband* counted more steps. Blue bars are days on which the *Fuelband* was worn on the dominant wrist while orange bars are days on which the *Fuelband* was worn on the non-dominant wrist.
 
 Just by looking at the graph it seems clear that this doesn't really make a difference. And after doing a standard t-test it's also clear that there's no statistically significant difference between both conditions. So: Nope, changing your wrist will not make your *Fuelband* count more steps. But...
 
-![point comparison](/images/ff_points_comparison.png)
+![point comparison](/assets/images/ff_points_comparison.png)
 
 There's a clear difference in *Fuel points* awarded for each step between the different conditions. The y-axis now shows the ratio of steps to *Fuel points*. Wearing the *Fuelband* on the non-dominant arm it takes more steps to achieve a single *Fuel point*. When it's worn on the dominant arm the *Fuelband* on average awards a *Fuel point* after 3.2 steps, when worn on the non-dominant arm it takes 4.5 steps (following the t-test this is a statistically significant difference).
 
