@@ -19,7 +19,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 Born in 1985 in Muenster, Germany. Did a Bachelor's degree in life sciences there. Then moved to Frankfurt to do a Master's degree in Ecology & Evolution. Somehow developed a taste for bioinformatics/computational biology along the way. Thus now working on a PhD in Applied Bioinformatics.
 
-Interested in Personal and Fungal Genomics, Evolutionary (Game) Theory, Molecular Evolution and DIYBio and whatnot. Avid fan of Open (Source|Access|Science|Culture). Convinced that basically everything is better if you add *open* in front of it.
+Interested in Personal and Fungal Genomics, Evolutionary \(Game\) Theory, Molecular Evolution and DIYBio and whatnot. Avid fan of Open \(Source|Access|Science|Culture\). Convinced that basically everything is better if you add *open* in front of it.
 
 Speaks Python, R & Ruby (on Rails) and even a bit of Perl. Founder of [openSNP](https://opensnp.org).
 
