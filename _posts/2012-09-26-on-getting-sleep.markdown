@@ -2,8 +2,7 @@
 layout: post
 title: "On Getting Sleep"
 date: 2012-09-26 19:44
-comments: true
-categories:
+blog: true
 ---
 
 Some of you may have noticed that *openSNP* now has support for [Fitbit](http://fitbit.com/). Using OAuth you can connect your *Fitbit*-account which allows us to [mirror the data on *openSNP* as well](https://opensnp.org/fitbit/info). We also have an option for those who don't feel comfortable sharing all their data: You can select which data categories should be mirrored. Right now those categories are *activities* (which includes your steps and floors), *body* (which includes your weight and body-mass-index and *sleep* (including the number of minutes you slept, how often you awoke in a night and how long those wake-phases were).

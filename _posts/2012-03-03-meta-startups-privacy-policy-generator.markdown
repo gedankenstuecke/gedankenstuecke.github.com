@@ -2,10 +2,7 @@
 layout: post
 title: "Using a Privacy Policy Generator"
 date: 2012-03-03 11:31
-comments: true
-categories:
-- openSNP
-- privacy
+blog: true
 ---
 Since the start of [*openSNP*](http://opensnp.org) we had a disturbing lack of <strike>faith</strike> a real privacy policy. Instead just offered the disclaimer people had to read while registering and uploading their genetic information on the website. In order to keep things simple we decided that there shouldn't be an elaborate privacy-management-system like e.g. *Facebook* provides. Not only to save us some work but also to minimize the damage done in any case of a programming/server access fuck-up. The worst case would've been to promise not to display/share data with the public and accidentally doing so (a thing somehow quite frequent with social networks et al.). So we settled with making virtually all information public from the beginning.
 

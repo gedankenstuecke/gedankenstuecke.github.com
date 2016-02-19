@@ -1,12 +1,9 @@
 ---
-layout: post
-title: "DAS Workshop at the EBI"
-date: 2012-02-28 08:00
-comments: true
-categories:
-- DAS
-- openSNP
-- bioinformatics
+title: "DAS Workshop at the EBI"layout: post
+date: 2013-02-07 20:32
+tag: DAS, opensnp
+blog: true
+#star: true
 ---
 I made it to this years workshop about the [*Distributed Annotation System* ](http://www.biodas.org/) (DAS) at the [*European Bioinformatics Institute*](http://www.ebi.ac.uk/) in Cambridge. Before we started working on openSNP I've never used the protocol but implementing one of the fields standards for sharing genetic information was definitely a thing we wanted to do with openSNP. We've worked on implementing this before the workshop but ran into some problems. After the first day of the workshop this already looks much better.
 

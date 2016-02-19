@@ -2,13 +2,7 @@
 layout: post
 title: "Latest Projects: RubyDAS &amp; TwitterBackup"
 date: 2012-04-06 15:49
-comments: true
-categories:
-- projects
-- ruby
-- twitterbackup
-- rubydas
-- das
+blog: true
 ---
 My latest job (also a combination of bioinformatics & web-design) makes me use *Python* and *Django* – let's just say I still need to acclimate to the changed framework. But I did some *Ruby* and *Rails*-stuff in the weeks before I started this position:
 
