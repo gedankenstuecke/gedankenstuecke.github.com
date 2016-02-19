@@ -1,8 +1,8 @@
-name: John Doe
+name: Bastian Greshake
 bio: 'A Man who travels the world eating noodles'
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://gedankenstuecke.github.io/indigo
 # your url: http://USERNAME.github.io
 permalink: /:title/
 
@@ -10,21 +10,21 @@ markdown: kramdown
 highlighter: rouge
 
 analytics: 'UA-MYANALYTICS'
-disqus: mydisqus
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-email: myemail@gmail.com
+#disqus: mydisqus
+#facebook: myfacebook
+twitter: gedankenstuecke
+instagram: gedankenstuecke
+#linkedin: mylinkedin
+#youtube: myyoutube
+#spotify: myspotify
+github: gedankenstuecke
+email: bgreshake@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
