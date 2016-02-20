@@ -19,6 +19,8 @@ instagram: gedankenstuecke
 #youtube: myyoutube
 #spotify: myspotify
 github: gedankenstuecke
+scholar: xmtDOnQAAAAJ
+orcid: 0000-0002-9925-9623
 email: bgreshake@gmail.com
 
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
