@@ -34,6 +34,4 @@ I started wearing my first *Fitbit* in early 2012, tracking my daily sleep and m
 
 I also looked into how [sharing a bed with different people influences my sleep](/on-getting-sleep/) (see the graph above, spoiler: it doesn't). And last but not least: Gamification really seems to work for me, which you can see if you plot the histogram of my daily step counts. The red vertical lines give the breaks at which you can earn achievements on *Fitbit*, go figure.
 
-<center>
 ![step data](/assets/images/qs_stepcount.png)
-</center>
