@@ -1,7 +1,7 @@
 ---
 title: "Visualizing yourself through Space & Time"
 layout: post
-date: 2016-02-20 11:00
+date: 2016-02-20 01:00
 tag: quantifiedself
 blog: true
 star: true
