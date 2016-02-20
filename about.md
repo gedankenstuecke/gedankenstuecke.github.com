@@ -19,9 +19,9 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 Born in 1985 in Muenster, Germany. Did a Bachelor's degree in life sciences there. Moved to Frankfurt to do a Master's degree in Ecology & Evolution afterwards. Somehow developed a taste for bioinformatics/computational biology along the way. Thus now working on a PhD in Applied Bioinformatics.
 
-Interested in Personal and Fungal Genomics, Evolutionary \(Game\) Theory, Molecular Evolution, *Do It Yourself Biology* and whatnot. Trying to find out how symbiotic relationships influence genomic evolution  at day. Trying to make science more open at night (well, and at day).
+Interested in Personal and Fungal Genomics, Evolutionary \(Game\) Theory, Molecular Evolution, *Do It Yourself Biology* and whatnot. Trying to find out how symbiotic relationships influence genomic evolution  at day. Trying to make science more open at night (well, and at day). For that reason the co-founder of [openSNP](https://opensnp.org).
 
-Avid fan of Open \(Source\|Access\|Science\|Culture\). Convinced that basically everything is better if you add *open* in front of it. Traveling a lot and liking it. Speaks Python, R & Ruby (on Rails) and even a bit of Perl. Founder of [openSNP](https://opensnp.org).
+Avid fan of Open \(Source\|Access\|Science\|Culture\). Convinced that basically everything is better if you add *open* in front of it. Traveling a lot and liking it. Interested in [data driven self-improvement](/quantifiedself/). Speaks Python, R & Ruby (on Rails) and even a bit of Perl.
 
 ---
 

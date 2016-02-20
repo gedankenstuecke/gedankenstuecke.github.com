@@ -1,5 +1,5 @@
 ---
-title: "Visualizing yourself through Space & Time"
+title: "Visualizing Yourself through Space & Time"
 layout: post
 date: 2016-02-20 01:00
 tag: quantifiedself
