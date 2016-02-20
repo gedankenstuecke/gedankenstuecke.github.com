@@ -22,9 +22,9 @@ For this there is a line drawn between each checkin and the next one. Or at leas
 
 So, what about the problems with the data: For now I just used the connections given by the order of the checkins, which can be a bit misleading for two reasons:
 
-* I'm not 100% sure that the order really reflects the chronology of the checkins
-* I'm merging *Swarm* & *Twitter* geotags, but I'm not recalculating the connections between the two data sets. So each line is always between two points in a given data source.
-* Posting geotagged *latergrams* on *Instagram* can put a new geotag into *Swarm* and *Twitter*, making it seem like I jump back to a place I was a couple of days ago.
+- I'm not 100% sure that the order really reflects the chronology of the checkins
+- I'm merging *Swarm* & *Twitter* geotags, but I'm not recalculating the connections between the two data sets. So each line is always between two points in a given data source.
+- Posting geotagged *latergrams* on *Instagram* can put a new geotag into *Swarm* and *Twitter*, making it seem like I jump back to a place I was a couple of days ago.
 
 Nevertheless, I think this is a nice and rather easy way to look into the geodata I'm creating each day. If you want to run this on your own data, [the code for this is on GitHub](https://github.com/gedankenstuecke/geolocations) and requires *Python* (for the data export) and *R* (for the visualization).
 
