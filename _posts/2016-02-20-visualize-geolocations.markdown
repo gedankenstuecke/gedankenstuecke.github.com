@@ -8,7 +8,7 @@ star: true
 ---
 [![my_routes](/assets/images/qs_travel_plot_heatmapish_thumb.png)*click to show full size*](/assets/images/qs_travel_plot_heatmapish.png)
 
-Thanks to Ernesto, [for reminding me to share this this](https://twitter.com/eramirez/status/700849973651374080)!
+Thanks to Ernesto, [for reminding me to share this](https://twitter.com/eramirez/status/700849973651374080)!
 
 What you see above is where I have been over the last couple of years, at least according to two different data sources: *Twitter* and *Swarm/Foursquare*. I have been using Twitter since 2008 and started using their geotagging feature from the start (~2011 if I remember correctly) and I started to use *Foursquare* at least sporadically in 2010. In total that makes around 20.000 tweets and checkins which I can place on a map.
 
