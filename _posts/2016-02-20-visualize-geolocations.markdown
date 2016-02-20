@@ -6,7 +6,7 @@ tag: quantifiedself
 blog: true
 star: true
 ---
-[![my_routes](/assets/images/qs_travel_plot_heatmapish_thumb.png)](/assets/images/qs_travel_plot_heatmapish.png)
+[![my_routes](/assets/images/qs_travel_plot_heatmapish_thumb.png)](/assets/images/qs_travel_plot_heatmapish.png) *click to show full size*
 
 Thanks to Ernesto, [for reminding me to share this this](https://twitter.com/eramirez/status/700849973651374080)!
 
@@ -16,7 +16,7 @@ The above map just shows you how much I have checked in/tweeted from which locat
 
 But there's more that you can read from the data, you can of course also track my movement by just connecting the checkins in the order in which they happened. Which can be done pretty easily as well.  
 
-[![my_routes](/assets/images/qs_travel_plot_routes_thumb.png)](/assets/images/qs_travel_plot_routes.png)
+[![my_routes](/assets/images/qs_travel_plot_routes_thumb.png)](/assets/images/qs_travel_plot_routes.png) *click to show full size*
 
 For this there is a line drawn between each checkin and the next one. Or at least that's how it supposed to work in principle, more on this below. In any case, you can see how I travelled to and through the US, Puerto Rico, China and other countries. For my trips to Israel you can even see the difference between taking a direct flight and having a layover in Kiev.
 
