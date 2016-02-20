@@ -21,6 +21,7 @@ But there's more that you can read from the data, you can of course also track m
 For this there is a line drawn between each checkin and the next one. Or at least that's how it supposed to work in principle, more on this below. In any case, you can see how I travelled to and through the US, Puerto Rico, China and other countries. For my trips to Israel you can even see the difference between taking a direct flight and having a layover in Kiev.
 
 So, what about the problems with the data: For now I just used the connections given by the order of the checkins, which can be a bit misleading for two reasons:
+
 * I'm not 100% sure that the order really reflects the chronology of the checkins
 * I'm merging *Swarm* & *Twitter* geotags, but I'm not recalculating the connections between the two data sets. So each line is always between two points in a given data source.
 * Posting geotagged *latergrams* on *Instagram* can put a new geotag into *Swarm* and *Twitter*, making it seem like I jump back to a place I was a couple of days ago.
