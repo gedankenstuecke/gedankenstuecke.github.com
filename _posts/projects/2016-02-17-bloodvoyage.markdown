@@ -5,7 +5,7 @@ date: 2016-02-17 22:10
 tag: markovbot
 projects: true
 description: "A Markovbot Mashup of Charles Darwin & Cormac McCarthy "
-jemoji: '<img class="emoji" title=":cactus:" alt=":cactus:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f335.pngpng" height="20" width="20" align="absmiddle">'
+jemoji: '<img class="emoji" title=":cactus:" alt=":cactus:" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f335.png" height="20" width="20" align="absmiddle">'
 
 ---
 
