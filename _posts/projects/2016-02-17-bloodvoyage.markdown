@@ -1,5 +1,5 @@
 ---
-title: "Blood Meridian"
+title: "The Blood Voyage"
 layout: post
 date: 2016-02-17 22:10
 tag: markovbot
