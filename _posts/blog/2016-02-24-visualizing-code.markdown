@@ -57,4 +57,4 @@ Some of you actually came forward and sent requests regarding other pictures, af
 
 ![punctuation malbolge](/assets/images/language_comp_malbolge.png)
 
-[Blinry](https://twitter.com/blinry) suggested the equally cryptic [*Malbolge*](https://en.wikipedia.org/wiki/Malbolge). As there no Josephus solution available I instead [went for a text adventure](https://twitter.com/blinry/status/702501773257396224), which you can see above.  
+[Blinry](https://twitter.com/blinry) suggested the equally cryptic [*Malbolge*](https://en.wikipedia.org/wiki/Malbolge). As there no Josephus solution available I instead [went for a text adventure](https://twitter.com/blinry/status/702501773257396224), which you can see above. And by now I really feel I should not have complained about the readability of *Perl*.  
