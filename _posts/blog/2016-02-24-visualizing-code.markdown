@@ -45,3 +45,16 @@ Just from looking at those graphs I find the second and third pictures much more
 1. Perl
 2. Ruby
 3. Python
+
+---
+
+#### Addendum
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Addendum to my Punctuation in Code: Brainfuck. <a href="https://t.co/bHsR4sOyfS">pic.twitter.com/bHsR4sOyfS</a></p>&mdash; Bastian Greshake (@gedankenstuecke) <a href="https://twitter.com/gedankenstuecke/status/702497843274227712">February 24, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Some of you actually came forward and sent requests regarding other pictures, after I posted another picture on *Twitter*. The picture above is from a [*brainfuck*](https://en.wikipedia.org/wiki/Brainfuck) conversion. For the 2 people who will notice: Yes, this isn't the Josephus problem but rather taken from a simple *Hello World*.
+
+![punctuation malbolge](/assets/images/language_comp_malbolge.png)
+
+[Blinry](https://twitter.com/blinry) suggested the equally cryptic [*Malbolge*](https://en.wikipedia.org/wiki/Malbolge). As there no Josephus solution available I instead [went for a text adventure](https://twitter.com/blinry/status/702501773257396224), which you can see above.  
