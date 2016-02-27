@@ -58,3 +58,8 @@ Some of you actually came forward and sent requests regarding other pictures, af
 ![punctuation malbolge](/assets/images/language_comp_malbolge.png)
 
 [Blinry](https://twitter.com/blinry) suggested the equally cryptic [*Malbolge*](https://en.wikipedia.org/wiki/Malbolge). As there no Josephus solution available I instead [went for a text adventure](https://twitter.com/blinry/status/702501773257396224), which you can see above. And by now I really feel I should not have complained about the readability of *Perl*.  
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/MarioBecroft">@MarioBecroft</a> here you go :) <a href="https://t.co/jrpbFOdt9g">pic.twitter.com/jrpbFOdt9g</a></p>&mdash; Bastian Greshake (@gedankenstuecke) <a href="https://twitter.com/gedankenstuecke/status/703018961265254401">February 26, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Mario Becroft asked about Scheme and gave me some example code to run through the visualization.
