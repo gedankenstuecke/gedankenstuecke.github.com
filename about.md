@@ -32,4 +32,4 @@ Hafeninsel 19<br/>
 
 mail: bgreshake@gmail.com <br/>
 phone: + 49 176 213 044 66 <br/>
-twitter: [@gedankenstuecke](http://www.twitter.com/gedankenstuecke)
+twitter: @[gedankenstuecke](http://www.twitter.com/gedankenstuecke)
