@@ -10,7 +10,7 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
-analytics: 'UA-MYANALYTICS'
+analytics: 'UA-74621325-1'
 #disqus: mydisqus
 facebook: bastian.greshake
 twitter: gedankenstuecke
