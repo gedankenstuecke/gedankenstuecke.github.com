@@ -27,5 +27,8 @@ Which is why we abandoned our initial question by applying the law of two feet, 
 In the end (and at various points in between) all the groups presented their ideas and visions, some even with some small theatrical presentations. It was great to see how many different, but also very similar ideas all the groups came up with over the course of the workshop. The [complete documentation, including more pictures and more advanced visualizations can be found online](https://docs.google.com/document/d/1ye2v0jN8uBpQy0etfD0FxOc-CdjEhtok0EV3wr95CB4/edit) as well.
 
 I am personally pretty amazed by what we all accomplished in so little time. And I look forward to meet many of the great participants again [in Portland, for FORCE2016](https://www.force11.org/meetings/force2016).
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Loving this pic of the <a href="https://twitter.com/hashtag/futurecommons?src=hash">#futurecommons</a> <a href="https://twitter.com/hashtag/opencon?src=hash">#opencon</a> alum! Thanks <a href="https://twitter.com/RadicevSlobodan">@RadicevSlobodan</a> <a href="https://twitter.com/open_con">@open_con</a> <a href="https://t.co/jdnnIz8v8J">pic.twitter.com/jdnnIz8v8J</a></p>&mdash; Robin Champieux (@rchampieux) <a href="https://twitter.com/rchampieux/status/704745365489061888">March 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*p.s.* I'm not exactly sure how I got the idea while talking to *[The Winnower](https://thewinnower.com)*, but I registered the url *[thecommons.science](http://thecommons.science)*. So if you have use for it let me know. 
