@@ -11,7 +11,7 @@ In order to get started, everyone was asked to jot down some of the features tha
 
 ![soapboxing at FORCE11 Workshop. Image CC-BY Slobodan Radicev, http://creativecommons.org/licenses/by/4.0/](/assets/images/madrid1.jpeg)
 
-From those initial ideas and visions people found each other in changing groups and started to discuss their ideas for the next 1 1/2 days: Finding out where the commons should head and how to solve the looming problems of the newly found commons, always applying the *[Law of Two Feet ](https://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_two_feet)*, in order to maximize your own learning and contributions.
+From those initial ideas and visions people found each other in changing groups and started to discuss their ideas for the next 1 1/2 days: Finding out where the commons should head and how to solve the looming problems of the newly found commons, always applying the *[Law of Two Feet](https://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_two_feet)*, in order to maximize your own learning and contributions.
 
 I happened to end up in a very nice group, discussing how commercial actors could use the commons, if at all. I think while we all agreed that they should be able to utilize the commons somehow, we all were somewhat worried that they might exploit or diminish the value of the commons, leading to one of our principles we set for our thinking: The commons need to be used in a way that its utility may not decrease.
 
@@ -31,4 +31,4 @@ I am personally pretty amazed by what we all accomplished in so little time. And
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Loving this pic of the <a href="https://twitter.com/hashtag/futurecommons?src=hash">#futurecommons</a> <a href="https://twitter.com/hashtag/opencon?src=hash">#opencon</a> alum! Thanks <a href="https://twitter.com/RadicevSlobodan">@RadicevSlobodan</a> <a href="https://twitter.com/open_con">@open_con</a> <a href="https://t.co/jdnnIz8v8J">pic.twitter.com/jdnnIz8v8J</a></p>&mdash; Robin Champieux (@rchampieux) <a href="https://twitter.com/rchampieux/status/704745365489061888">March 1, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*p.s.* I'm not exactly sure how I got the idea while talking to *[The Winnower](https://thewinnower.com)*, but I registered the url *[thecommons.science](http://thecommons.science)*. So if you have use for it let me know. 
+*p.s.* I'm not exactly sure how I got the idea while talking to *[The Winnower](https://thewinnower.com)*, but I registered the url *[thecommons.science](http://thecommons.science)*. So if you have use for it let me know.
