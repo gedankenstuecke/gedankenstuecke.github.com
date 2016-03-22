@@ -1,7 +1,7 @@
 ---
 title: "Application for the Open Science Policy Platform"
 layout: post
-date: 2016-03-022 01:00
+date: 2016-03-22 01:00
 tag: openscience
 blog: true
 ---
