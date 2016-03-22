@@ -5,7 +5,7 @@ date: 2016-03-22 01:00
 tag: openscience
 blog: true
 ---
-*You might have seen that many of us #openscience folks are currently applying for the [European Open Science Policy Platform](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform), which will be organized by the Directorate-General for Research and Innovation. The application deadline is today and I managed to write a up short application myself. I think it's necessary that the #openscience movement at large will get some people into this platform and I hope that we can get a good mix of people.
+*You might have seen that many of us #openscience folks are currently applying for the [European Open Science Policy Platform](http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-policy-platform), which will be organized by the Directorate-General for Research and Innovation. The application deadline is today and I managed to write a up short application myself. I think it's necessary that the #openscience movement at large will get some people into this platform and I hope that we can get a good mix of people.*
 
 *I personally applied because I feel that it's very important to make sure that #openscience policy is not only shaped by Industry and Academia but also by citizen scientists. This would make the whole scientific enterprise more inclusive and diverse. My own experience somewhere in between the academic and citizen science world can hopefully be useful to that end, making sure that those voices are not lost.*
 
