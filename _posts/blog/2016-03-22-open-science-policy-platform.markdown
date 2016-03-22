@@ -23,5 +23,5 @@ Through the experiences of running a project at and outside the very limits of w
 
 I hope that my rather unusual connection to open science and citizen science can help broadening the focus and can bring in a new perspective that should be heard when discussing open science policies.
 
-With Regards,</br>
+With Regards,<br/>
 Bastian Greshake
