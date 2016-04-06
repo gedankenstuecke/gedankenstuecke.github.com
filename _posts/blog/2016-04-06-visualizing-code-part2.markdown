@@ -29,3 +29,12 @@ Today I finally found some spare time to run at least some of those different co
 
 ## PHP
 ![PHP Punctuation](/assets/images/language_comp2_php.png)
+
+# Edits
+
+Additionally, [the first post features Perl, Python, Ruby, Brainfuck, Malbolge and Scheme](/visualizing-code/). And below you will find Lisp, as per request from [@neuroecology](https://twitter.com/neuroecology).
+
+## Lisp
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/neuroecology">@neuroecology</a> <a href="https://twitter.com/abellogin">@abellogin</a> <a href="https://twitter.com/rosettacode">@rosettacode</a> no problem, and here you go w/ Lisp. <a href="https://twitter.com/agvaughan">@agvaughan</a> <a href="https://t.co/eWQHfSQa24">pic.twitter.com/eWQHfSQa24</a></p>&mdash; Bastian Greshake (@gedankenstuecke) <a href="https://twitter.com/gedankenstuecke/status/717714600817475584">April 6, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
