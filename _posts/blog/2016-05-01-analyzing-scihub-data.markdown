@@ -24,7 +24,7 @@ A small aside: [As rightfully pointed out on Twitter](https://twitter.com/johnst
 
 ![](/assets/images/scihub-download_time_hong_kong_feb2016.png)
 
-But the country data can be used for so much more things than just adjusting the time zones. You can easily correlate the data with more general public data sets. For example, [the World Bank offers a great deal of public data](http://databank.worldbank.org/). For example you can get the population for all countries, the GDP or the number of internet users.
+But the country data can be used for so much more things than just adjusting the time zones. You can easily correlate the data with more general public data sets. For example, [the World Bank offers a great deal of public data](http://databank.worldbank.org/). You can get the population for all countries, the GDP or the number of internet users.
 
 I started out by correlating the population sizes to the number of downloads. You'd naively expect that the larger a population is, the more downloads will be done. Which is true, up to a point. If we plot the population size and the number of downloads (on a log10 scale), we see a nice positive correlation between those.
 
@@ -36,7 +36,7 @@ But there are obvious outliers. Some countries, such as the Iran, have much more
 [![](/assets/images/scihub-downloads_per_population_residuals-thumb.png)](/assets/images/scihub-downloads_per_population_residuals.png)
 [click for larger version](assets/images/scihub-downloads_per_population_residuals-thumb.png)
 
-We again see, when looking at the absolute difference of, that much more downloads are done from Iran than we'd expect. And Scott pointed out that [some of the Iranian mirrors were not even included](https://twitter.com/SCEdmunds/status/726122053703618561). When we move away from those total numbers and instead look at *Downloads per 1,000 inhabitants* we see a pretty similar picture.
+We again see, when looking at the absolute difference, that much more downloads are done from Iran than we'd expect. And Scott pointed out that [some of the Iranian mirrors were not even included](https://twitter.com/SCEdmunds/status/726122053703618561). When we move away from those total numbers and instead look at *Downloads per 1,000 inhabitants* we see a pretty similar picture.
 
 [![](/assets/images/scihub-downloads_per_population_ranked-thumb.png)](/assets/images/scihub-downloads_per_population_ranked.png)
 [click for larger version](assets/images/scihub-downloads_per_population_ranked.png)
@@ -53,7 +53,7 @@ But is it really the GDP in itself that's driving the effect, or are we rather m
 
 So far this is pretty much what you'd expect: The more people are online, the more downloads you find for a given country. Which also isn't too surprising, if you think about that [GDP and the number of internet users itself is closely correlated to each other](assets/images/scihub-gdp_vs_internet.png).
 
-Another thing that obviously could have an impact about whether you'd be interested in academic literature is whether you have time to care about such things. So let's look at life expectancy at birth.
+Another thing that obviously could have an impact on whether you'd be interested in academic literature is whether you have time to care about such things. So let's look at life expectancy at birth.
 
 [![](/assets/images/scihub-normalized_downloads_life_expectancy-thumb.png)](/assets/images/scihub-normalized_downloads_life_expectancy.png)
 [click for larger version](assets/images/scihub-normalized_downloads_life_expectancy.png)
