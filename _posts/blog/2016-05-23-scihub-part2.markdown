@@ -46,8 +46,18 @@ The second hypothesis I had was that it's dependent on the amount of spending do
 
 The [data used for these plots, as well as the code for generating the plots is on GitHub](https://github.com/gedankenstuecke/scihub_analysis), as usual. If you have ideas on how to improve the analyses [drop me an issue there](https://github.com/gedankenstuecke/scihub_analysis/issues) or [tweet me](https://twitter.com/gedankenstuecke). And big thanks go to Alexandra Elbakyan for providing the data, I hope seeing this is of some use!
 
-***UPDATE***
+## Update 1
 
 Jonathan Ready emailed me with an idea for why one can see this seasonality in the academic downloads:
 
 > You may already have many replies, but I guess the seasonality is due to the influx and egress of post-graduates during the year - dissertations tend to be written at certain times of the year and so there is a great rush on citation searches at that time. This clearly varies between countries but I am sure it is likely a major cause of this variation.
+
+## Update 2
+After tweeting a bit with [@MaliciaRogue](https://twitter.com/MaliciaRogue) I wanted to see how the download behavior in different countries changes over time. I not-so-randomly selected a couple of European countries that came to my mind and also some potentially interesting other countries for a small plot.
+
+[![](/assets/images/university_downloads_country_per_time-thumb.png)](/assets/images/university_downloads_country_per_time.png)
+[click for larger version](/assets/images/university_downloads_country_per_time.png)
+
+There are some cultural differences to see here, or at least that's what I'd assume. For countries that have been heavily influenced by Christianity you can clearly see the Christmas holidays again. And looking at the weeks before Christmas in the Netherlands, the United States, Sweden and also Germany I somehow get the feeling that the protestant work ethic might be to blame for those pre-Christmas peaks.
+
+Not too surprisingly Israel and China's numbers are pretty stable over Christmas. But Rosh Hashanah, Yom Kippur and Sukkot can be clearly seen leaving their marks, as can Chinese New Year. Are there any more holidays you can spot? 
