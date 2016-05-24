@@ -46,7 +46,7 @@ The second hypothesis I had was that it's dependent on the amount of spending do
 
 The [data used for these plots, as well as the code for generating the plots is on GitHub](https://github.com/gedankenstuecke/scihub_analysis), as usual. If you have ideas on how to improve the analyses [drop me an issue there](https://github.com/gedankenstuecke/scihub_analysis/issues) or [tweet me](https://twitter.com/gedankenstuecke). And big thanks go to Alexandra Elbakyan for providing the data, I hope seeing this is of some use!
 
-**UPDATE**
+***UPDATE***
 
 Jonathan Ready emailed me with an idea for why one can see this seasonality in the academic downloads:
 
