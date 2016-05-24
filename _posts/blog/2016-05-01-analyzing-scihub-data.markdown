@@ -66,3 +66,6 @@ This also seems to intuitively make sense. The higher the life expectancy, the m
 Which, interestingly enough, is a very bad predictor of how many papers will be downloaded. Regardless of unemployment levels there are countries which do download a lot of papers and others less so. Amongst the high-unemployment countries Spain and Greece make interesting positive outliers for example, having lots of downloaded papers.
 
 There's probably much more interesting going on inside the Sci-Hub data, especially if you correlate it with different external data sources. Thanks to many open data resources that's easily possible. If you're interested in doing your own analyses [my source code for those graphs can be found on GitHub](https://github.com/gedankenstuecke/scihub_analysis), along with the World Bank data I used here. If you have ideas what else I could look into, or if you want to contribute, please [feel free to open issues](https://github.com/gedankenstuecke/scihub_analysis/issues) and [get in touch](https://www.twitter.com/gedankenstuecke).
+
+**UPDATE**
+[I did a follow up analysis with the hep of *Sci-Hub*, classifying how many downloads are made from inside universities.](/scihub-part2/)
