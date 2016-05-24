@@ -20,7 +20,7 @@ In any case: These public address ranges could then be matched to the data held 
 [![](/assets/images/university_downloads_vs_time-thumb.png)](/assets/images/university_downloads_vs_time.png)
 [click for larger version](/assets/images/university_downloads_vs_time.png)
 
-As you would expect (or at least hope), the number of downloads from universities does cut back over the weekends (and holidays like Christmas). And it also seems that there is some larger seasonality in the data, if you have good ideas where it comes from: let me know. One important thing to keep in mind: This data is the worldwide aggregate, so different time zones will play into the weekday-calculation (and not all cultures hold their weekends on Saturday/Sunday).
+As you would expect (or at least hope), the number of downloads from universities does cut back over the weekends (and holidays like Christmas). And it also seems that there is some larger seasonality in the data, if you have good ideas where it comes from: let me know *(One of you actually did, see the end of this article!)*. One important thing to keep in mind: This data is the worldwide aggregate, so different time zones will play into the weekday-calculation (and not all cultures hold their weekends on Saturday/Sunday).
 
 [![](/assets/images/university_downloads_per_weekday-thumb.png)](/assets/images/university_downloads_per_weekday.png)
 [click for larger version](/assets/images/university_downloads_per_weekday.png)
@@ -45,3 +45,9 @@ I nevertheless tried to see whether there's some underlying reason for this dist
 The second hypothesis I had was that it's dependent on the amount of spending done on research in general: Once you start investing into research, having more academics around might lead to an initial increase in *Sci-Hub* downloads, which eventually might decrease because once you have enough money, you can afford the journal subscriptions? But that also doesn't seem to be the case. I guess at the end it does not matter how much money you throw at publishers, you'll never be able to pay their subscriptions.
 
 The [data used for these plots, as well as the code for generating the plots is on GitHub](https://github.com/gedankenstuecke/scihub_analysis), as usual. If you have ideas on how to improve the analyses [drop me an issue there](https://github.com/gedankenstuecke/scihub_analysis/issues) or [tweet me](https://twitter.com/gedankenstuecke). And big thanks go to Alexandra Elbakyan for providing the data, I hope seeing this is of some use!
+
+**UPDATE**
+
+Jonathan Ready emailed me with an idea for why one can see this seasonality in the academic downloads:
+
+> You may already have many replies, but I guess the seasonality is due to the influx and egress of post-graduates during the year - dissertations tend to be written at certain times of the year and so there is a great rush on citation searches at that time. This clearly varies between countries but I am sure it is likely a major cause of this variation.
