@@ -6,7 +6,7 @@ tag: openscience
 blog: true
 ---
 
-[![header](/assets/images/scienceisglobal.png)](/assets/images/scienceisglobal.png)
+[![header](/assets/images/scienceisglobal_thumb.png)](/assets/images/scienceisglobal.png)
 
 Last week the *The Royal Society* issued [a joint statement about the importance of the international nature of research](https://royalsociety.org/topics-policy/publications/2016/european-academies-statement-science-is-global/?utm_source=social_media&utm_medium=hootsuite&utm_campaign=standard) along with national academies across the UK and Europe. At the same time they started the hashtag *#ScienceIsGlobal* on *Twitter*, where individuals reported what nationalities are collaborating in their labs.
 
