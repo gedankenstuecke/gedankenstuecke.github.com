@@ -1,0 +1,80 @@
+---
+layout: none
+permalink: .well-known/keybase.txt
+---
+
+==================================================================
+https://keybase.io/gedankenstuecke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ruleofthirds.de
+  * I am gedankenstuecke (https://keybase.io/gedankenstuecke) on keybase.
+  * I have a public key with fingerprint F7FC 60B7 8C29 19F2 F94A  CD6E 227A 9EA1 AF38 635C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016c3f8d0157bbf3d1a6bd466662a0b40e4d79ac5fe5231150780db39dc8b681900a",
+            "fingerprint": "f7fc60b78c2919f2f94acd6e227a9ea1af38635c",
+            "host": "keybase.io",
+            "key_id": "227a9ea1af38635c",
+            "kid": "01016c3f8d0157bbf3d1a6bd466662a0b40e4d79ac5fe5231150780db39dc8b681900a",
+            "uid": "8b61df2346df6f0a40deb6bd38dd2219",
+            "username": "gedankenstuecke"
+        },
+        "revoke": {
+            "sig_ids": [
+                "c90a30c2b699ec600b1dd852a9b563948d149fd23fbb8261c0521815da2466730f"
+            ]
+        },
+        "service": {
+            "hostname": "ruleofthirds.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473231949,
+    "expire_in": 157680000,
+    "prev": "f8458cb60a4cd82dd273811cabc75d0f51b312eae2cd5bff7f9ba82e9ff50970",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUltoVUcUvTGtiYmG+DZGbXo0SCDozJzXzG0r+KiKjdJGatAQL/NMjknPuZ5z
+7m2t1n4WMUhAkVbRVgVFRVGoVYqKXt/GB36oH4pRWyUiKmI/6gPtnGD//HR+ZmbP
+2muvvWZ3DSpOlRV9X/vRnVf01N9F3Q9Yquny4SXLDRaIZUZ6udEu+zbZIWQUZ9o9
+YaQNAAF0uKmwANB2GVOmgNRhwnL0QhQwC0hLuIRyW0kbmRDawMVAMJMIjpmDIQGA
+GvWG8vxWGWZDz481rXIVdwBzMUcEEoUUsSgXjkTIpURSSJWJHdPmOrEtiJIMLY7R
+SE7yAh3Tl0yfvHfg37PuXB+djkChkGk5QjkKUAsIyTSdiYVACJIEGMnQp99IjW6V
+gvrt0o/inOTt0vih3ghlPtAnbW/ktWrtkZFuNjgB1AQcMYcQqf0ADAqBbUQJsx2T
+WFhAiyiBTMUYRg7kwEYQQ1tQpPtwTaCMFs2tC+c93keemPVWRJjrkIGK27xQRJOE
+1AqzYRAHPOjQj21xnE0fSYTFy7IJ+lvJMm95Mszzhf4tnZGXYeQFvpGGGsljLyGG
+lmtqv4hF6g35XdYLZcZLELbrYKBXUkfmkz/Glo05c7RbXGCkjXJNDCGnjLu2AMqG
+zIRIUom4sJnSI0EYxUgSpWxAXGAknS31AyPtaJm0VVNq73wa50JtadmqojEfpIrK
+Uv0/7JeMcapsQOX/s12+ozS14d6LzIKu4/+cvNC8we28/+uFS7UNQx+Lbfs34ooJ
+1cNTF+29nxaXdlqHT19rXHJ77OTVJZuaq49VzQiPHLx44nHN1ittnS2VNwrnjg7e
+0btv2IGeQmP6czaup7DlqwN15V2VK26taLo5t6S0/scZJUPunW5Zd7bhz6W5qv03
+fj4/86/+jQMb/XD3ocl1q4Z4i54cCx7xj3/79+vetb9P7bfr6srR83pq8xUvt4++
+W/x858Mv9mxe9xOZ0jW/+vn88bNGnP2kd/wfJ96cqWha3PC0Z8DA1zXrC93XF8LO
+X6aYz8aMnMnki40ldd2DP7s8Z9y0wjlQ/ubB8ZVftkxbU3r00MSqfbPJ+emrz4za
+Neg/
+=w+0g
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gedankenstuecke
+
+==================================================================
+
