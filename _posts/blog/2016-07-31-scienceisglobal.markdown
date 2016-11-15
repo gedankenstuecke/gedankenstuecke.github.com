@@ -22,3 +22,9 @@ The tl;dr of the resulting graph: Science is truly global, as all you see is thi
 ![chord diagram](/assets/images/scienceisglobal-chords.png)
 
 If you want to explore the data yourself, maybe even coming in with more network knowledge than I have, [please play around with the data](https://github.com/gedankenstuecke/scienceisglobal)!
+
+**UPDATE 2016-11-15**
+
+[![chord diagram](/assets/images/scienceisglobal_bianca_e100_thumb.png)](/assets/images/scienceisglobal_bianca_e100.png)
+
+[Bianca Kramer](https://twitter.com/MsPhelps) used the data to create much more beautiful graphs using *Gephi*. She added the latitude/longitude information to the nodes and with that projected the network on a map. The graph above shows all connections between countries that appear > 100 times. You can [find her CC-BY-4.0 released work with more details on GitHub as well](https://github.com/bmkramer/scienceisglobal). 
