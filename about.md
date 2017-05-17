@@ -9,15 +9,15 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-> A frustrated grad student with zero connection to bioethics
+> *A frustrated grad student with zero connection to bioethics*
 
 - [John Wilbanks](http://www.twitter.com/wilbanks)
 
-> The Mark Zuckerberg of Open Source Genetics
+> *The Mark Zuckerberg of Open Source Genetics*
 
 - [Fusion](http://fusion.net/story/47945/this-guy-is-the-mark-zuckerberg-of-open-source-genetics/)
 
-> My best colleague, *[…]* - the guy who knows everything
+> *My best colleague, *[…]* - the guy who knows everything*
 
 - [Vinh Tran](https://trvinh.github.io/2017/04/20/how-i-met-r/)
 
