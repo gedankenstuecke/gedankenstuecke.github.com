@@ -17,7 +17,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 - [Fusion](http://fusion.net/story/47945/this-guy-is-the-mark-zuckerberg-of-open-source-genetics/)
 
-> *My best colleague, *[…]* - the guy who knows everything*
+> *My best colleague,* […] *- the guy who knows everything*
 
 - [Vinh Tran](https://trvinh.github.io/2017/04/20/how-i-met-r/)
 
