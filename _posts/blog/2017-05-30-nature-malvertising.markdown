@@ -14,7 +14,7 @@ In the process of doing research for a snarky tweet I was looking for the yearly
 
 Which in sum doesn't scream ***malware*** at all, right? At first I suspected that some of my own *Chrome* extensions or system would be to blame for this. So I went through removing all Chrome extensions and the issue remained. And then I reproduced the same thing on a different machine with a different installation of *Chrome* and a different operating system. And sure enough, the *Nature* website, at least on some occasions, leads you to this badly hidden try to install dubious things on your computer.
 
-![popup](/assets/images/nature-malvertising1.png)
+[![popup](/assets/images/nature-malvertising1.png)](/assets/images/nature-malvertising1.png)
 
 Intrigued I started with a simple [*whois*](https://www.whois.com/whois/yogachallengepix.us) for the domain from which the popup arises. And lucky enough, the site is hosted by a gentleman called *Anatoliu Golovin* from Moscow. Some further googling showed, I'm not the only person who has made indirect contact with that person, [David Gil De Gómez Perez blogged about his encounter with the same kind of attack](http://studiosi.es/malware-basics-analyzing-a-possible-malware-inside-a-chrome-extension) two weeks ago and describes the same kind of attack, which seems to combine the [forced *Chrome* extension installation](https://blog.malwarebytes.com/cybercrime/2016/11/forced-into-installing-a-chrome-extension/) with [a less sophisticated version of the malvertising approach](https://blog.malwarebytes.com/cybercrime/2017/05/roughted-the-anti-ad-blocker-malvertiser).
 
