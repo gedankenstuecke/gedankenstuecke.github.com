@@ -22,7 +22,7 @@ Which means you can finally browse *openSNP* from your phone without having to w
 
 Another big thing, that was a headache each time we wanted to adjust our email system, was the poor layout of our email templates, which was the opposite of *Don't Repeat Yourself*. I spent a good amount of time to finally implement a proper templating system, which means changes to any emails sent to the openSNP users will no longer mean a day full of suffering. 🎉 And one thing that must have made [Helge](https://github.com/tsujigiri/) super happy is the increase of our test coverage which has [increased by some percent since the *#mozsprint*](https://github.com/openSNP/snpr/pull/388).
 
-But the best part of the sprint is that new people will join you in contributing, like [Amiefairs](https://github.com/amiefairs), who [fixed our broken grammar](https://github.com/openSNP/snpr/pull/369) in so many places 🖋. Or [Bverpaalen](https://github.com/bverpaalen), who helped to significantly improve our documentation 🖊. In the same spirit I moonlighted a bit on [betatim's](https://github.com/betatim) [command line interface for the Open Science Framework](https://github.com/dib-lab/osf-cli) 🖥..
+But the best part of the sprint is that new people will join you in contributing, like [Amiefairs](https://github.com/amiefairs), who [fixed our broken grammar](https://github.com/openSNP/snpr/pull/369) in so many places 🖋. Or [Bverpaalen](https://github.com/bverpaalen), who helped to significantly improve our documentation 🖊. In the same spirit I moonlighted a bit on [betatim's](https://github.com/betatim) [command line interface for the Open Science Framework](https://github.com/dib-lab/osf-cli) 🖥.
 
 ![popup](/assets/images/2017-mozsprint-impact.png)
 
