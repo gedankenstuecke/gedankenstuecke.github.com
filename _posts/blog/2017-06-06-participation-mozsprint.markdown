@@ -12,7 +12,7 @@ blog: true
 
 ![popup](/assets/images/2017-mozsprint-opensnp-wide.png)
 
-This year we had prepared a good list of big items we wanted to tackle. The biggest being the redesign of *openSNP*. Since we started the website in 2011 the design had aged a good bit, with the design being more or less unchanged since the start. Which also meant that we were one of the last sites on the web that didn't support any responsive interfaces, which made using *openSNP* a pain if you happened to access it from your smartphone or tablet.
+This year we had prepared a good list of big items we wanted to tackle. The biggest being the redesign of *openSNP*. Since we started the website in 2011 the frontend had aged a good bit, with the design being more or less unchanged since the start. Which also meant that we were one of the last sites on the web that didn't support any responsive interfaces, which made using *openSNP* a pain if you happened to access it from your smartphone or tablet.
 
 [Mateus](https://github.com/MateusJabour), one of our *Google Summer of Code*-student did a great job on implementing the last version of *Bootstrap* into *openSNP*. Unfortunately, there were a good number of merge conflicts and bugs that were a result of the underlying code base changing too much during the *Summer of Code*. Having the two days of the *#mozsprint* was a great opportunity for us to finally merge the wonderful new design into the production system 😍.
 
