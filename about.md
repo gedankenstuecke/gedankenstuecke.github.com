@@ -30,7 +30,7 @@ Avid fan of Open \(Source\|Access\|Science\|Culture\). Convinced that basically 
 ---
 
 **Contact**<br/>
-Bastian Greshake<br/>
+Bastian Greshake Tzovaras<br/>
 Hafeninsel 19<br/>
 63067 Offenbach am Main, Germany
 
