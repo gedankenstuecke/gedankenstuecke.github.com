@@ -31,9 +31,8 @@ Avid fan of Open \(Source\|Access\|Science\|Culture\). Convinced that basically 
 
 **Contact**<br/>
 Bastian Greshake Tzovaras<br/>
-Hafeninsel 19<br/>
-63067 Offenbach am Main, Germany
+*no current address*
 
 mail: bgreshake@gmail.com <br/>
-phone: + 49 176 213 044 66 <br/>
+phone: + 49 176 213 044 66 (🇪🇺) or + 1 (510) 944-4298 (🇺🇸) <br/>
 twitter: @[gedankenstuecke](http://www.twitter.com/gedankenstuecke)
