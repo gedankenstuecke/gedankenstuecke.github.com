@@ -21,11 +21,14 @@ img { width: 50%; margin: 0 auto; display: block; }
 
 - [Vinh Tran](https://trvinh.github.io/2017/04/20/how-i-met-r/)
 
-Born in 1985 in Muenster, Germany. Did a Bachelor's degree in life sciences there. Moved to Frankfurt to do a Master's degree in Ecology & Evolution afterwards. Somehow developed a taste for bioinformatics/computational biology along the way. Thus now working on a PhD in Applied Bioinformatics.
+A biologist-turned-bioinformatician. Did a Master's degree in Ecology & Evolution at the Goethe University of Frankfurt and developed a taste for bioinformatics/computational biology along the way.
+Thus wrote a Bioinformatics PhD thesis on how symbiotic relationships influence genomic evolution.
 
-Interested in Personal and Fungal Genomics, Evolutionary \(Game\) Theory, Molecular Evolution, *Do It Yourself Biology* and whatnot. Trying to find out how symbiotic relationships influence genomic evolution  at day. Trying to make science more open at night (well, and at day). For that reason the co-founder of [openSNP](https://opensnp.org).
+Avid fan of Open \(Source\|Access\|Science\|Culture\). Convinced that basically everything is better if you add *open* in front of it.
+Thus co-founded [openSNP](https://opensnp.org) – a crowdsourced/citizen science open data project that puts personal genetics data into the public domain – in 2011.
+For the same reason the *Director of Research* for [Open Humans](https://openhumans.org).
 
-Avid fan of Open \(Source\|Access\|Science\|Culture\). Convinced that basically everything is better if you add *open* in front of it. Traveling a lot and liking it. Interested in [data driven self-improvement](/quantifiedself/). Speaks Python, R & Ruby (on Rails) and even a bit of Perl.
+Traveling a lot and liking it. Interested in [data driven self-improvement](/quantifiedself/) and *Do It Yourself Biology*. Speaks Python, R & Ruby (on Rails) and even a bit of Perl.
 
 ---
 
