@@ -34,5 +34,5 @@ Bastian Greshake Tzovaras<br/>
 *no current address*
 
 mail: bgreshake@gmail.com <br/>
-phone: 🇪🇺 + 49 176 213 044 66 or 🇺🇸 + 1 (510) 944-4298 <br/>
+phone: 🇪🇺 + 49 (176) 213 044 66 or 🇺🇸 + 1 (510) 944-4298 <br/>
 twitter: @[gedankenstuecke](http://www.twitter.com/gedankenstuecke)
