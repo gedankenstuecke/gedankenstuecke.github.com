@@ -465,8 +465,7 @@ pre {
 .home .home__header .home__header-social svg,
 .blog .home__header .home__header-social svg,
 .projects .home__header .home__header-social svg {
-  -webkit-transition: all ease-in-out 0.2s;
-          transition: all ease-in-out 0.2s;
+  transition: all ease-in-out 0.2s;
 }
 .home .home__sections,
 .blog .home__sections,
@@ -524,8 +523,7 @@ pre {
   margin: 0;
   width: 75%;
   font-weight: 500;
-  -webkit-transition: all ease-in-out 0.2s;
-          transition: all ease-in-out 0.2s;
+  transition: all ease-in-out 0.2s;
 }
 .home .home__sections .home__sections-single aside,
 .blog .home__sections .home__sections-single aside,
@@ -538,8 +536,7 @@ pre {
   font-weight: 300;
   color: #aaa;
   text-align: right;
-  -webkit-transition: all ease-in-out 0.2s;
-          transition: all ease-in-out 0.2s;
+  transition: all ease-in-out 0.2s;
 }
 .projects .home__sections-single h3 {
   display: inline;
@@ -660,8 +657,7 @@ pre {
   padding: 7px 15px;
   margin: 0;
   border-radius: 4%;
-  -webkit-transition: all 0.4s ease-in-out;
-          transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
   width: 70px;
   text-decoration: none;
 }
@@ -698,8 +694,7 @@ footer a {
 footer a svg {
   width: 15px !important;
   fill: #aaa !important;
-  -webkit-transition: ease-in-out all 0.3s;
-          transition: ease-in-out all 0.3s;
+  transition: ease-in-out all 0.3s;
   position: relative;
   top: 3px;
 }
@@ -870,14 +865,12 @@ footer p a {
   }
 }
 .evidence {
-  background-image: -webkit-linear-gradient(top, rgba(39,243,106,0.15), rgba(39,243,106,0.15));
   background-image: linear-gradient(to bottom, rgba(39,243,106,0.15), rgba(39,243,106,0.15));
   color: #222;
 }
 .star h3 {
   width: auto !important;
   display: inline;
-  background-image: -webkit-linear-gradient(top, rgba(39,243,106,0.15), rgba(39,243,106,0.15));
   background-image: linear-gradient(to bottom, rgba(39,243,106,0.15), rgba(39,243,106,0.15));
 }
 .pagination {
