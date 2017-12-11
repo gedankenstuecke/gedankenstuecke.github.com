@@ -25,7 +25,7 @@ A biologist-turned-bioinformatician. Did a Master's degree in Ecology & Evolutio
 Thus wrote a Bioinformatics PhD thesis on how symbiotic relationships influence genomic evolution.
 
 Avid fan of Open \(Source\|Access\|Science\|Culture\|.\*\). Convinced that basically everything is better if you add *open* in front of it.
-Thus co-founded [openSNP](https://opensnp.org) – a crowdsourced/citizen science open data project that puts personal genetics data into the public domain – in 2011.
+Thus co-founded [openSNP](https://opensnp.org) – a crowdsourced/*citizen* science open data project that puts personal genetics data into the public domain – in 2011.
 For the same reason the *Director of Research* for [Open Humans](https://openhumans.org).
 
 Traveling a lot and liking it. Interested in [data driven self-improvement](/quantifiedself/) and *Do It Yourself Biology*. Speaks Python, R & Ruby (on Rails) and even a bit of Perl.
