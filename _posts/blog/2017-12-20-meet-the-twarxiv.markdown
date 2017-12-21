@@ -22,7 +22,7 @@ The plots that the <font color="#1DA1F2">Tw</font>Arχiv generates include more 
 
 <center><a href='https://twtr-analyser.herokuapp.com/tweet_display/location/72944223/'><img src="/assets/images/twitter-map.gif" alt=""></a></center>
 
-If you want to run your own *Twitter* archive through it give <a href='http://twarxiv.org/'><font color="#1DA1F2">Tw</font>Arχiv</a> a try. As it uses [*Open Humans*](https://www.openhumans.org) for the storage you can even easily choose to make that data available to researchers. After all, if you have an unprotected *Twitter* account this data is already public information, so why not help social media researchers by donating it?
+If you want to analyse your own *Twitter* archive give <a href='http://twarxiv.org/'><font color="#1DA1F2">Tw</font>Arχiv</a> a try. As it uses [*Open Humans*](https://www.openhumans.org) for the storage of the archive you can also easily choose to make that data available to further researchers. If you have an unprotected *Twitter* account this data is already out there in public but hard to systematically access for anyone but Twitter. So why not help social media researchers out by giving your data?
 
 If you have ideas for data analysis that is missing so far: The code of <font color="#1DA1F2">Tw</font>Arχiv is open source and I'd love to [get your contributions and suggestions](https://github.com/gedankenstuecke/twitter-analyser). And if you have a larger feature/analysis idea that's not in <font color="#1DA1F2">Tw</font>Arχiv yet, [Open Humans is giving out grants of up to $5,000](https://www.openhumans.org/grants) for projects that help to grow their eco-system. Improving on <font color="#1DA1F2">Tw</font>Arχiv is are a perfect match for this.
 
