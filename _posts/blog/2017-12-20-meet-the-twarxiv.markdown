@@ -20,7 +20,7 @@ The plot above is an example of what <font color="#1DA1F2">Tw</font>Arχiv tries
 
 The <font color="#1DA1F2">Tw</font>Arχiv also looks into how your tweet behaviour changes with respect to whether you use *Twitter* for replying, retweeting or making original posts on your own, at which times of the day you tweet and even how you move across the globe while tweeting. The gif below gives you a small glimpse into parts of my 2016 tweets.
 
-![](/assets/images/twitter-map.gif)
+<center><img src="/assets/images/twitter-map.gif" alt=""></center>
 
 If you want to run your own *Twitter* archive through it give <a href='http://twarxiv.org/'><font color="#1DA1F2">Tw</font>Arχiv</a> a try. As it uses [*Open Humans*](https://www.openhumans.org) for the storage you can even easily choose to make that data available to researchers. After all, if you have an unprotected *Twitter* account this data is already public information, so why not help social media researchers by donating it?
 
