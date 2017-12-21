@@ -18,7 +18,7 @@ personal history and find those funny cat pictures you once posted. But there is
 
 The plot above is an example of what <font color="#1DA1F2">Tw</font>Arχiv tries to achieve. It gives you an idea of how my *Reply* behaviour has changed over time by using a *gender-guessing Python library* that classifies the users I replied to based on their first names. Using this you see that I did have an extreme male-bias between early 2009 and around 2013 that starts to become less pronounced afterwards. What happened during that time? I was an active member of the [overwhelmingly male German Pirate Party](https://en.wikipedia.org/wiki/Pirate_Party_Germany). The plots that the <font color="#1DA1F2">Tw</font>Arχiv generates include more interesting data, you can [see a demo done on my personal Twitter archive](https://twtr-analyser.herokuapp.com/tweet_display/interactions/72944223/).
 
-<font color="#1DA1F2">Tw</font>Arχiv looks into how your tweet behaviour changes with respect whether you use *Twitter* for replying, retweeting or making original posts on your own, at which times of the day you tweet and even how you move across the globe while tweeting. The gif below gives you a small glimpse into parts of my 2016 tweets.
+The <font color="#1DA1F2">Tw</font>Arχiv also looks into how your tweet behaviour changes with respect to whether you use *Twitter* for replying, retweeting or making original posts on your own, at which times of the day you tweet and even how you move across the globe while tweeting. The gif below gives you a small glimpse into parts of my 2016 tweets.
 
 ![](/assets/images/twitter-map.gif)
 
