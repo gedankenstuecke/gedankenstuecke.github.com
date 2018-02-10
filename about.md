@@ -22,7 +22,7 @@ img { width: 50%; margin: 0 auto; display: block; }
 - [Vinh Tran](https://trvinh.github.io/2017/04/20/how-i-met-r/)
 
 A biologist-turned-bioinformatician. Did a Master's degree in Ecology & Evolution at the Goethe University of Frankfurt and developed a taste for bioinformatics/computational biology along the way.
-Thus wrote a Bioinformatics PhD thesis on how symbiotic relationships influence genomic evolution.
+Thus finished a bioinformatics PhD on how symbiotic relationships influence genomic evolution.
 
 Avid fan of Open \(Source\|Access\|Science\|Culture\|.\*\). Convinced that basically everything is better if you add *open* in front of it.
 Thus co-founded [openSNP](https://opensnp.org) – a crowdsourced/*citizen* science open data project that puts personal genetics data into the public domain – in 2011.
