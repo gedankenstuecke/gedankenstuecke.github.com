@@ -6,14 +6,13 @@ tag: open-humans
 blog: true
 ---
 ![](/assets/images/whatsnext.gif)
-
-<small>
+</br><small>
 President Bartlet of <i>The West Wing</i> is calling his famous "What's next" to his secretary after managing a task.
 </small>
 
 I just defended my PhD last week, and one question from virtually every person who attended and stayed for the after-party: *What's Next?* Which initially felt a bit weird. After all, I already took my next step three months ago when I joined *Open Humans* as the Director of Research. But then I realized that this is a nice opportunity to reflect a bit on my first months and think about what my next goals for *Open Humans* are.
 
-<h2>Where is *Open Humans* so far?</h2>
+<h2>Where is <i>Open Humans</i> so far?</h2>
 So far I spent good parts on learning the ropes. First of all, I had to find my way into the technical infrastructure of *Open Humans*. Learning the code base, the APIs, server setups and so on. And what better way to do this but starting my own projects? I thus integrated two new projects on *Open Humans*: First I connected my long-standing project [openSNP](https://opensnp.org) with *Open Humans* – allowing users of both platforms to re-use their genetic data more easily. Then I started [TwArχiv](http://twarxiv.org), which not only brings a new data source but also some data-visualization to *Open Humans*. This integration of Twitter data will hopefully also be a first step towards a more holistic view of personal data that includes non-medical data.
 
 Hand in hand with the technical side of things I also found my way into the community around *Open Humans*. Learning which projects there are, how to best support them and also how to grow the *Open Humans* community even more. I not only got to know many of the brilliant individuals inside the *Open Humans* community, but I also helped them to achieve their goals - be it through bug fixes, relevant connections or finding out how to optimize our website to make it work for their needs. First steps towards a further community growth were also taken: We could announce the first three successful grant applications, all bringing new data sources to *Open Humans*. And a fourth grant announcement – enhancing existing data sets – will be out soon!
