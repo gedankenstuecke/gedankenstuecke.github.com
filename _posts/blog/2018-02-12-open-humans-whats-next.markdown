@@ -6,6 +6,7 @@ tag: open-humans
 blog: true
 ---
 ![](/assets/images/whatsnext.gif)
+
 <small>
 President Bartlet of <i>The West Wing</i> is calling his famous "What's next" to his secretary after managing a task.
 </small>
@@ -19,7 +20,7 @@ Hand in hand with the technical side of things I also found my way into the comm
 
 The *Open Humans* community grows nicely and is becoming more and more engaged. So things are on track. But where should we go from here? And what is the larger vision? Traditional academic research – as well as corporate data silos – put themselves into the center of all data collection. In contrast, *Open Humans* is very different to this. As [Steph laid out in her blog post](https://blog.openhumans.org/2017/12/01/what-is-open-humans-to-me/): *Open Humans* is a technological platform; a vibrant community; and a paradigm shift to how research is done at the same time. In addition to all these things there is one thing that I always mention when people [ask me what *Open Humans* is](http://ruleofthirds.de/joining-open-humans/): **It is empowerment**. Putting individuals in control of their own data and of research at large. And to me, this means more than 'just' giving people the choice of when and where to share their data.
 
-<h2>What should *Open Humans* be?</h2>
+<h2>What should <i>Open Humans</i> be?</h2>
 **Empowerment means giving people the opportunity and chance to explore and understand their own data**. Be it on their own – or in collaboration as a community outside the traditional academic research setting. The growth of the independent Open Artificial Pancreas community – which aggregates their own data through *Open Humans* – is a stellar example for this empowerment. As stewards of the *Open Humans* ecosystem it is our responsibility to support people to run projects like these. It is up to us to make it easier to create and run projects on *Open Humans* – empowering more people including those who are not highly programming savvy. *Open Humans* offers the unique chance to democratize science, enabling people outside academia to do new research that has never existed before. **To pull this off we have to become more inclusive in our approach**. This means getting everybody on board who has great ideas for research.
 
 First steps towards this direction have been made already: We [now have a first data uploader template](https://github.com/gedankenstuecke/oh_data_uploader) that allows everyone to create their own, data-collecting *Open Humans* project while requiring zero programming knowledge. Instead a web browser is enough to do the complete setup. A similar idea for the administration of projects should become a reality in the near future. Furthermore, we are on the way to create shareable analyses notebooks. These can be written and run by everyone – facilitating community-driven data analysis. By increasing our inclusivity more we will not only see more projects on *Open Humans*, we will also see a much wider diversity in how these projects will use data. I can't wait to interact with all of them.
@@ -28,4 +29,4 @@ I see this diversity reflected in the kinds of data that will be on *Open Humans
 
 Let's just think of a simple example: Everyone can pay Twitter to get access to their firehose of data or just scrape tweets for keywords from the web. But who but *Open Humans* can offer potential access to 200 or more full Twitter archives that are available right now? And more importantly, who offers the possibility to get in touch with these people and as such a way to get additional metadata and consent them? The same is true for virtually all kinds of social media data and many other data types. **Humans are more than their bodies, and *Open Humans* should reflect this**.
 
-So this is what's next for *Open Humans*: Creating an ecosystem that enables the largest possible number of people to do research; that collects and enables the re-use of the most diverse set of data; and that brings together participants and researchers from all disciplines and walks of life – informing each other and creating the most interesting research.
+So this is what's next for <i>Open Humans</i>: Creating an ecosystem that enables the largest possible number of people to do research; that collects and enables the re-use of the most diverse set of data; and that brings together participants and researchers from all disciplines and walks of life – informing each other and creating the most interesting research.
