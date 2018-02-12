@@ -6,7 +6,7 @@ tag: open-humans
 blog: true
 ---
 ![](/assets/images/whatsnext.gif)
-</br><small>
+<br/><small>
 President Bartlet of <i>The West Wing</i> is calling his famous "What's next" to his secretary after managing a task.
 </small>
 
