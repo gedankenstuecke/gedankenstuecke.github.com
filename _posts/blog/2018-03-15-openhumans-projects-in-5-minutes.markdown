@@ -1,5 +1,5 @@
 ---
-title: "Get your own *Open Humans* project up in 5-10 minutes"
+title: "Get your own Open Humans project up in 5-10 minutes"
 layout: post
 date: 2018-03-15 01:00
 tag: open-humans
