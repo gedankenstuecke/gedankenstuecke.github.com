@@ -4,6 +4,8 @@
 
 This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
+memo: don't use the gulp stuff, it degrades your pictures
+
 ---
 
 What has inside?
