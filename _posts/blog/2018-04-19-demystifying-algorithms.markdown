@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Algorithms by Doing"
 layout: post
-date: 2018-03-15 01:00
+date: 2018-04-19 01:00
 tag: open-humans
 blog: true
 ---
