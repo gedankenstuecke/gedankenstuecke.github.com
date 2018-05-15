@@ -8,24 +8,24 @@ blog: true
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Quickly looked into <a href="https://twitter.com/hashtag/mozsprint?src=hash&amp;ref_src=twsrc%5Etfw">#mozsprint</a> numbers that <a href="https://twitter.com/abbycabs?ref_src=twsrc%5Etfw">@abbycabs</a> released. There’s a long tail w/ ⅓ of all 4,930 contributions coming from people who made ≤10 contributions. Many small contributions can make a big difference. 😍 <a href="https://t.co/xk70AK8BIl">pic.twitter.com/xk70AK8BIl</a></p>&mdash; Bastian Greshake Tzovaras (@gedankenstuecke) <a href="https://twitter.com/gedankenstuecke/status/995908771976114177?ref_src=twsrc%5Etfw">May 14, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Participating in the *Mozilla Global Sprint* is somewhat of an annual ritual for me and this year's installment took took place on May 10/11. As *Open Humans* hadn't ever participated in a Sprint before I spent some time in [getting up a clean list of ways to contribute on a small micro-site](http://openhumansfoundation.org/globalsprint-2018/). Given that we [recently started our *Personal Data Notebooks*](https://blog.openhumans.org/2018/05/14/personal-data-notebooks-explore-and-analyze-your-data-right-in-your-browser/), a lot of the ways to contribute focused on writing some basic data analyses notebooks.
+Participating in the *Mozilla Global Sprint* is somewhat of an annual ritual for me. This year's installment took place on May 10/11. As *Open Humans* hadn't ever participated in a Sprint before, I spent some time in [getting up a clean list of ways to contribute on a small micro-site](http://openhumansfoundation.org/globalsprint-2018/). Given that we [recently started our *Personal Data Notebooks*](https://blog.openhumans.org/2018/05/14/personal-data-notebooks-explore-and-analyze-your-data-right-in-your-browser/), a lot of the ways to contribute focused on writing some basic data analyses notebooks.
 
-Having a good collection of demo notebooks makes a great showcase and way to teach how *Jupyter Notebooks* that are connected to *Open Humans* can be used to learn about yourself. Prior to the sprint we already had some basic example notebooks that performed simple analyses of data from *Fitbit*, *Apple Health* and *Twitter*.
+Having a good collection of example notebooks makes for a great showcase and a fun way to teach how *Jupyter Notebooks* can be used to learn about yourself. Prior to the sprint we already had some basic example notebooks that performed simple analyses of data from *Fitbit*, *Apple Health* and *Twitter*.
 
 ![](http://openhumansfoundation.org/ohjh-example-notebooks/header-image.gif)
 
-During the sprint we could expand on that and get some notebooks that use data from *Moves*, *23andMe* and soon also *uBiome*.
+During the sprint we could expand on that and get some notebooks that use data from *Moves*, *23andMe* and (soon) also *uBiome*:
 
 - Based on a reference panel - [generated from openSNP genotype/phenotype data](https://github.com/OpenHumans/ohjh-example-notebooks/blob/master/eye-color-and-23andme-data.ipynb) - you can use your *23andMe* data to see whether your genetic data can predict your eye color.
 - The GPS data of *Moves* can be used to find out [whether the weather around you influences your physical activity](https://github.com/OpenHumans/ohjh-example-notebooks/blob/master/moves-analysis.ipynb).
 - Your own microbiome as analyzed by *uBiome* can soon be [compared to all public microbiome data sets](https://github.com/OpenHumans/ohjh-example-notebooks/pull/10).
 
-But things often only get really interesting when you cross data streams. To demonstrate this two further notebooks were contributed during the *#mozsprint*:
-- One correlates your *Moves* data with your *Twitter data* to see [whether the weather has an impact on your mood as recorded by your tweets](https://github.com/OpenHumans/ohjh-example-notebooks/blob/master/twitter-under-the-weather.ipynb).
+But things often only get really interesting when you cross data streams. Two further notebooks that were contributed during the *#mozsprint* demonstrate this:
+- One notebook correlates your *Moves* data with your *Twitter* data to see [whether the weather has an impact on your mood as recorded by your tweets](https://github.com/OpenHumans/ohjh-example-notebooks/blob/master/twitter-under-the-weather.ipynb).
 - Another notebook correlates your *Twitter* posting frequency with your step counts as measured by *Fitbit* [to see whether social media makes you walk less](https://github.com/OpenHumans/ohjh-example-notebooks/blob/master/twitter-and-fitbit-activity.ipynb).
 
 ![](/assets/images/2018-mozsprint-image.png)
 
-These example notebooks [are already preloaded when you start your own *Personal Data Notebooks*](http://openhumansfoundation.org/ohjh-example-notebooks) and should work right away on your own data. These hopefully inspire you to write your own analysis notebooks that you can share. As a small incentive: [*Open Humans* is running a Notebook competition until the 27th of May](https://blog.openhumans.org/2018/05/14/personal-data-notebooks-explore-and-analyze-your-data-right-in-your-browser/). The best notebooks will not only be included in the standard demo notebook collection, but also highlighted on [*QuantifiedSelf.com*](http://quantifiedself.com/).
+These example notebooks [are already preloaded when you start your own *Personal Data Notebooks*](http://openhumansfoundation.org/ohjh-example-notebooks) and they should work right away on your own data. They hopefully inspire you to write your own data analyses that you want to share. As a further small incentive: [*Open Humans* is running a Notebook competition until the 27th of May](https://blog.openhumans.org/2018/05/14/personal-data-notebooks-explore-and-analyze-your-data-right-in-your-browser/). The best notebooks will not only be included in our example demo notebook collection, but also highlighted on [*QuantifiedSelf.com*](http://quantifiedself.com/).
 
 Happy data analysis everyone! 🎉 📊
