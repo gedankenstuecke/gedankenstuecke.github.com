@@ -21,7 +21,7 @@ $(function(){
           $("#weather").removeClass('invisible');
         }
 
-        if(data){
+        if(data.activity.heart_rate){
           $("#heart_rate").html(data.activity.heart_rate);
           $("#steps").html(data.activity.steps);
           $("#sleep").html(data.activity.hours_slept);
