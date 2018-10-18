@@ -4,7 +4,7 @@ $(function(){
         if(data.location.tz){
           var local_time = new Date();
           local_time = new Date(local_time .getTime() + data.location.tz_offset);
-          $("#local_time").html(local_time.getHours()+":"+local_time.getMinutes());
+          $("#local_time").html(local_time.toISOString().substr(11, 5));
           $("#time_zone").html(data.location.tz);
           $("#time_info").removeClass('invisible');
         };
