@@ -2,14 +2,9 @@ $(function(){
     var json_url = $('#json_url').attr('href');
     $.get(json_url, function(data){
         if(data.location.tz){
-          var local_time = new Date();
-          local_time = new Date(local_time .getTime() + data.location.tz_offset);
-          var hour = local_time.getHours();
-          var mins  = local_time.getMinutes();
-          if (mins<10){
-            mins = "0"+mins;
-          };
-          $("#local_time").html(hour+":"+mins);
+
+          var local_time = new Date( new Date().getTime() + data.location.tz_offset * 1000).toUTCString().replace( / GMT$/, "" ).substring(17,22)
+          $("#local_time").html(local_time);
           $("#time_zone").html(data.location.tz);
           $("#time_info").removeClass('invisible');
         };
