@@ -5,8 +5,8 @@ date: 2018-05-15 01:00
 tag: open humans, personal api, personal data
 blog: true
 ---
-<img src='/assets/images/personal-api.png' border=2 />
-<small>What the <a href="">output of a personal API</a> can look like</a>
+<img src="/assets/images/personal-api.png" border="2" />
+<small>What the <a href="https://my-personal-api.herokuapp.com/">output of a personal API</a> can look like</a>
 
 *Open Humans* has been expanding thanks to lots of new data sources that have gone live in the last couple of months.
 Thanks to our Outreachy interns we already have added support for sharing your [Google Location History](https://google-location.openhumans.org/) and your [Spotify Listening History](https://spotify.openhumans.org/).
