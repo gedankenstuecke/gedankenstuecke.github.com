@@ -5,7 +5,7 @@ date: 2018-05-15 01:00
 tag: open humans, personal api, personal data
 blog: true
 ---
-<img src="/assets/images/personal-api.png" style="border: solid gray 2px; border-radius:10px;" />
+<img src="/assets/images/personal-api.png" style="border: solid gray 2px; border-radius:5px;" />
 <small>What the <a href="https://my-personal-api.herokuapp.com/">output of a personal API</a> can look like.</small>
 
 *Open Humans* has been expanding thanks to lots of new data sources that have gone live in the last couple of months.
