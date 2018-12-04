@@ -525,6 +525,12 @@ pre {
 .photography .home__sections .home__sections-single:hover aside {
   color: #666;
 }
+.home .home__sections .home__sections-single:hover span,
+.blog .home__sections .home__sections-single:hover span,
+.projects .home__sections .home__sections-single:hover span,
+.photography .home__sections .home__sections-single:hover span {
+  color: #666;
+}
 .home .home__sections .home__sections-single a,
 .blog .home__sections .home__sections-single a,
 .projects .home__sections .home__sections-single a,
@@ -557,6 +563,18 @@ pre {
   color: #aaa;
   text-align: right;
   transition: all ease-in-out 0.2s;
+}
+.home .home__sections .home__sections-single .link_photo-preview,
+.blog .home__sections .home__sections-single .link_photo-preview,
+.projects .home__sections .home__sections-single .link_photo-preview,
+.photography .home__sections .home__sections-single .link_photo-preview {
+  padding: 0 0;
+}
+.home .home__sections .home__sections-single .description_photo,
+.blog .home__sections .home__sections-single .description_photo,
+.projects .home__sections .home__sections-single .description_photo,
+.photography .home__sections .home__sections-single .description_photo {
+  color: #aaa;
 }
 .projects .home__sections-single h3,
 .photography .home__sections-single h3 {

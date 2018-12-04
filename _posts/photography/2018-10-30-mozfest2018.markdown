@@ -1,0 +1,25 @@
+---
+title: "Mozfest 2018"
+layout: post
+date: 2018-10-30 22:10
+tag: mozilla festival 2018
+photography: true
+photo: https://c2.staticflickr.com/2/1921/44723967465_13ff1b5c06_b.jpg
+description: "Impressions of the 2018 Mozilla Festival"
+
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gedankenstuecke/44723967465/in/album-72157697132501270/" title="Science Fairing"><img src="https://farm2.staticflickr.com/1921/44723967465_13ff1b5c06_b.jpg" alt="Science Fairing"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+[Mozfest](https://mozillafestival.org/) is *Mozilla*'s annual festival that brings together technologists, activists, scientists, artists and many more for a weekend in London's Ravensbourne College.
+Unlike schedules of many other events, time for passive consumption of talks can barely be found. Instead, workshops make up the bulk of the schedule. And even the science fair & demo parts consist largely of lively discussions between participants.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gedankenstuecke/31765586448/in/album-72157697132501270/" title="Rage Against the Machine Learning"><img src="https://farm2.staticflickr.com/1928/31765586448_d5ea49ea89_b.jpg" alt="Rage Against the Machine Learning"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Many of the workshops are pretty hands on. Not only literally, when creating pieces of art or building robots, but also by forming discussion groups to learn from each other's experiences. Most workshop's are extensively documented by their facilitators and participants, making use of post-its, photos and shared online documents.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gedankenstuecke/45637874321/in/album-72157697132501270/" title="Visionary"><img src="https://farm2.staticflickr.com/1901/45637874321_81957fd558_b.jpg" alt="Visionary"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+See all photos in the Flickr album:
+
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/gedankenstuecke/albums/72157697132501270" title="Mozfest 2018"><img src="https://farm2.staticflickr.com/1921/44723967465_13ff1b5c06_b.jpg" width="1024" height="683" alt="Mozfest 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
