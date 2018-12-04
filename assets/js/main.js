@@ -1,3 +1,5 @@
+// this code displays personal information about Bastian powered
+// by the https://my-personal-api.herokuapp.com/ application. Build your own there!
 $(function(){
     var json_url = $('#json_url').attr('href');
     $.get(json_url, function(data){
