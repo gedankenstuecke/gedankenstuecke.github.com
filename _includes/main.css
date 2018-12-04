@@ -401,19 +401,22 @@ pre {
 }
 .home,
 .blog,
-.projects {
+.projects,
+.photography {
   margin-top: 125px;
 }
 .home .home__header,
 .blog .home__header,
-.projects .home__header {
+.projects .home__header,
+.photography .home__header {
   display: block;
   margin: 0 auto;
   text-align: center;
 }
 .home .home__header img,
 .blog .home__header img,
-.projects .home__header img {
+.projects .home__header img,
+.photography .home__header img {
   width: 125px;
   margin-bottom: 25px;
   border-radius: 100%;
@@ -421,20 +424,24 @@ pre {
 .home .home__header h1,
 .blog .home__header h1,
 .projects .home__header h1,
+.photography .home__header h1,
 .home .home__header h2,
 .blog .home__header h2,
-.projects .home__header h2 {
+.projects .home__header h2,
+.photography .home__header h2 {
   margin: 0;
 }
 .home .home__header h1,
 .blog .home__header h1,
-.projects .home__header h1 {
+.projects .home__header h1,
+.photography .home__header h1 {
   font-size: 4rem;
   margin-bottom: 13px;
 }
 .home .home__header h2,
 .blog .home__header h2,
-.projects .home__header h2 {
+.projects .home__header h2,
+.photography .home__header h2 {
   font-size: 1.85rem;
   font-weight: 300;
   font-style: normal;
@@ -444,32 +451,38 @@ pre {
 }
 .home .home__header h2 a,
 .blog .home__header h2 a,
-.projects .home__header h2 a {
+.projects .home__header h2 a,
+.photography .home__header h2 a {
   font-weight: 200;
 }
 .home .home__header .home__header-social,
 .blog .home__header .home__header-social,
-.projects .home__header .home__header-social {
+.projects .home__header .home__header-social,
+.photography .home__header .home__header-social {
   margin-top: 20px;
 }
 .home .home__header .home__header-social a,
 .blog .home__header .home__header-social a,
-.projects .home__header .home__header-social a {
+.projects .home__header .home__header-social a,
+.photography .home__header .home__header-social a {
   margin: 0 3px;
 }
 .home .home__header .home__header-social a:hover svg,
 .blog .home__header .home__header-social a:hover svg,
-.projects .home__header .home__header-social a:hover svg {
+.projects .home__header .home__header-social a:hover svg,
+.photography .home__header .home__header-social a:hover svg {
   fill: #4b0082;
 }
 .home .home__header .home__header-social svg,
 .blog .home__header .home__header-social svg,
-.projects .home__header .home__header-social svg {
+.projects .home__header .home__header-social svg,
+.photography .home__header .home__header-social svg {
   transition: all ease-in-out 0.2s;
 }
 .home .home__sections,
 .blog .home__sections,
-.projects .home__sections {
+.projects .home__sections,
+.photography .home__sections {
   border-top: 1px solid #ededed;
   margin-top: 30px;
   padding-top: 40px;
@@ -477,7 +490,8 @@ pre {
 }
 .home .home__sections:before,
 .blog .home__sections:before,
-.projects .home__sections:before {
+.projects .home__sections:before,
+.photography .home__sections:before {
   display: block;
   content: " ";
   width: 7px;
@@ -493,24 +507,34 @@ pre {
 }
 .home .home__sections .home__sections-single,
 .blog .home__sections .home__sections-single,
-.projects .home__sections .home__sections-single {
+.projects .home__sections .home__sections-single,
+.photography .home__sections .home__sections-single {
   display: block;
   width: 95%;
   margin: 0 auto;
 }
 .home .home__sections .home__sections-single:hover h3,
 .blog .home__sections .home__sections-single:hover h3,
-.projects .home__sections .home__sections-single:hover h3 {
+.projects .home__sections .home__sections-single:hover h3,
+.photography .home__sections .home__sections-single:hover h3 {
   color: #4b0082;
 }
 .home .home__sections .home__sections-single:hover aside,
 .blog .home__sections .home__sections-single:hover aside,
-.projects .home__sections .home__sections-single:hover aside {
+.projects .home__sections .home__sections-single:hover aside,
+.photography .home__sections .home__sections-single:hover aside {
+  color: #666;
+}
+.home .home__sections .home__sections-single:hover span,
+.blog .home__sections .home__sections-single:hover span,
+.projects .home__sections .home__sections-single:hover span,
+.photography .home__sections .home__sections-single:hover span {
   color: #666;
 }
 .home .home__sections .home__sections-single a,
 .blog .home__sections .home__sections-single a,
-.projects .home__sections .home__sections-single a {
+.projects .home__sections .home__sections-single a,
+.photography .home__sections .home__sections-single a {
   width: 100%;
   height: 100%;
   display: block;
@@ -519,7 +543,8 @@ pre {
 }
 .home .home__sections .home__sections-single h3,
 .blog .home__sections .home__sections-single h3,
-.projects .home__sections .home__sections-single h3 {
+.projects .home__sections .home__sections-single h3,
+.photography .home__sections .home__sections-single h3 {
   margin: 0;
   width: 75%;
   font-weight: 500;
@@ -527,7 +552,8 @@ pre {
 }
 .home .home__sections .home__sections-single aside,
 .blog .home__sections .home__sections-single aside,
-.projects .home__sections .home__sections-single aside {
+.projects .home__sections .home__sections-single aside,
+.photography .home__sections .home__sections-single aside {
   position: relative;
   top: 2px;
   margin: 0;
@@ -538,10 +564,24 @@ pre {
   text-align: right;
   transition: all ease-in-out 0.2s;
 }
-.projects .home__sections-single h3 {
+.home .home__sections .home__sections-single .link_photo-preview,
+.blog .home__sections .home__sections-single .link_photo-preview,
+.projects .home__sections .home__sections-single .link_photo-preview,
+.photography .home__sections .home__sections-single .link_photo-preview {
+  padding: 0 0;
+}
+.home .home__sections .home__sections-single .description_photo,
+.blog .home__sections .home__sections-single .description_photo,
+.projects .home__sections .home__sections-single .description_photo,
+.photography .home__sections .home__sections-single .description_photo {
+  color: #aaa;
+}
+.projects .home__sections-single h3,
+.photography .home__sections-single h3 {
   display: inline;
 }
-.projects .home__sections-single .emoji {
+.projects .home__sections-single .emoji,
+.photography .home__sections-single .emoji {
   display: inline;
   position: relative;
   top: -4px;
@@ -658,7 +698,7 @@ pre {
   margin: 0;
   border-radius: 4%;
   transition: all 0.4s ease-in-out;
-  width: 70px;
+  width: 105px;
   text-decoration: none;
 }
 .home__header-nav ul li a:hover {

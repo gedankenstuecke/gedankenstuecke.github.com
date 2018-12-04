@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: /photography/index.html
+title: Photography
+---
+{% include header.html %}
+
+<section class="home__sections">
+    {% for post in site.posts %}
+        {% if post.photography %}
+            <div class="home__sections-single {% if post.star == true %}star{% endif %}">
+                <a class='link_photo-preview' href="{{post.url}}">
+                  <img class="image_photo_preview" src="{{post.photo}}"/>
+                </a>
+                <a class='link_photo-preview' href="{{ site.url }}{{ post.url }}">
+                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    <h3>{{ post.title }}</h3>
+                    <span class="description_photo">{{post.description}}</span>
+                </a>
+              <br/>
+            </div>
+        {% endif %}
+    {% endfor %}
+</section>
+
+{% include footer.html %}

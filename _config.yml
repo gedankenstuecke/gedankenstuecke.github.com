@@ -1,8 +1,9 @@
 name: Bastian Greshake Tzovaras
-bio: 'Generally, things are better if you put <i>open*</i> in front of them'
+bio: 'Generally, things are better if you put <i>open*</i> in front of them.'
 picture: 'assets/images/profile.jpg'
 
-url: https://gedankenstuecke.github.io
+url: https://tzovar.as
+#url: https://gedankenstuecke.github.io
 #url: localhost:3000
 # your url: http://USERNAME.github.io
 permalink: /:title/
@@ -33,6 +34,8 @@ exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.j
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
+
+photography: true
 
 # if you don't need about or blog, comment them out below
 about: true
