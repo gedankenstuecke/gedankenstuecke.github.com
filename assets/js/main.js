@@ -5,7 +5,7 @@ $(function(){
     $.get(json_url, function(data){
         if(data.location.tz){
 
-          var local_time = new Date( new Date().getTime() + data.location.tz_offset * 1000).toUTCString().replace( / GMT$/, "" ).substring(17,22)
+          var local_time = new Date( new Date().getTime() + data.location.tz_offset * 1000).toUTCString().replace( / GMT$/, "" ).substring(17,22);
           $("#local_time").html(local_time);
           $("#time_zone").html(data.location.tz);
           $("#time_info").removeClass('invisible');
