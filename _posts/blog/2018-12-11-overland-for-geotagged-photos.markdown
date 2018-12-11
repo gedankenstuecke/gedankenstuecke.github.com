@@ -8,7 +8,7 @@ blog: true
 <img src="/assets/images/overland-lightroom.png"/>
 <small>Geotagging photos in <i>Adobe Lightroom</i>.</small>
 
-After [semi-accidentally ending up at SantaCon in San Francisco](/santacon) last weekend, I was wondering how I could geo-tag my photos more easily. If you're only taking pictures with your smartphone, that's not much of an issue as the internal GPS applies the metadata automatically. But lots of modern cameras still don't come with an internal GPS or require some [ridiculous add-ons](https://www.leicacamerausa.com/evf-visoflex-typ-020-black-x-typ-113-tl-m10.html).
+After [semi-accidentally ending up at SantaCon in San Francisco](/santaconsf) last weekend, I was wondering how I could geo-tag my photos more easily. If you're only taking pictures with your smartphone, that's not much of an issue as the internal GPS applies the metadata automatically. But lots of modern cameras still don't come with an internal GPS or require some [ridiculous add-ons](https://www.leicacamerausa.com/evf-visoflex-typ-020-black-x-typ-113-tl-m10.html).
 
 So what to do when you end up with photos that don't have location metadata written yet? *Adobe Lightroom* allows you to drag & drop photos onto a map. Besides this being tedious work, it requires you to have a nearly photographic memory to remember where took all those photos (In which case you might not be much into actual photography 😉). The second option given is to load a `GPX` track file in which you recorded your movement. The location timestamps can then be aligned with the metadata of your photos to automate the writing of the location metadata.
 
