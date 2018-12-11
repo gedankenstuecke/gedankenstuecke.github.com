@@ -1,7 +1,7 @@
 ---
 title: "Using Overland to Geotag Photos with Lightroom"
 layout: post
-date: 2018-12-10 01:00
+date: 2018-12-11 01:00
 tag: open humans, overland, personal data, gps, google location history
 blog: true
 ---
@@ -10,7 +10,7 @@ blog: true
 
 After [semi-accidentally ending up at SantaCon in San Francisco](/santacon) last weekend, I was wondering how I could geo-tag my photos more easily. If you're only taking pictures with your smartphone, that's not much of an issue as the internal GPS applies the metadata automatically. But lots of modern cameras still don't come with an internal GPS or require some [ridiculous add-ons](https://www.leicacamerausa.com/evf-visoflex-typ-020-black-x-typ-113-tl-m10.html).
 
-So what to do when you end up with photos that don't have location metadata written yet? *Adobe Lightroom* allows you to drag & drop photos onto a map. Besides this being tedious work, it requires you to have a nearly photographic memory to remember where took all those photos (In which case you might not be much into photography 😉). The second option given is to load a `GPX` track file in which you recorded your movement. The location timestamps can then be aligned with the metadata of your photos to automate the writing of the location metadata.
+So what to do when you end up with photos that don't have location metadata written yet? *Adobe Lightroom* allows you to drag & drop photos onto a map. Besides this being tedious work, it requires you to have a nearly photographic memory to remember where took all those photos (In which case you might not be much into actual photography 😉). The second option given is to load a `GPX` track file in which you recorded your movement. The location timestamps can then be aligned with the metadata of your photos to automate the writing of the location metadata.
 
 Sounds great, but always having to remember to start recording a GPS track through some additional software is just as annoying as having to put an additional GPS dongle on your camera. Luckily, I'm already passively recording my location by [running Overland on my iOS phone](https://overland.p3k.app/) and [store the collected GPS coordinates in Open Humans](https://overland.openhumans.org/). Which means I have a huge backlog of my personal location data that's recorded more or less 24/7, making it an ideal data source to geo-tag all of my photos.
 
@@ -32,6 +32,10 @@ With the GPS data now written to your photos e.g. [Flickr](https://www.flickr.co
 
 ### Bonus uses & Google Location History!
 
-If you're not running Overland to collect your GPS data you might be able to use your [Google Location History instead](https://google-location.openhumans.org/). A notebook to convert the Google Location History data to `GPX` is available as well.
+If you're not running Overland to collect your GPS data you might be able to use your [Google Location History instead](https://google-location.openhumans.org/). A [notebook to convert the Google Location History data to `GPX` is available as well](https://exploratory.openhumans.org/notebook/23/).
+
+And having the data as GPX has another big benefit: You can import those tracks right into *Google Earth* and start exploring it there!
 
 ![](/assets/images/overland-googleearth.png)
+
+<small>Some of my GPS tracks around my office.</small>
