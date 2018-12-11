@@ -2,7 +2,7 @@
 title: "Using Overland to Geotag Photos with Lightroom"
 layout: post
 date: 2018-12-10 01:00
-tag: open humans, overland, personal data, gps
+tag: open humans, overland, personal data, gps, google location history
 blog: true
 ---
 <img src="/assets/images/overland-lightroom.png"/>
@@ -16,14 +16,22 @@ Sounds great, but always having to remember to start recording a GPS track throu
 
 There's only one single catch: Overland delivers all its data as `GeoJSON` data points by default. So to make use of the location history it needs to be converted into the `GPX` format. Fortunately it turns out that it's rather easy to write those `GPX`-formatted tracks, especially if all one is interested in are the latitude, longitude and timestamps. In fact it's so easy that it [can easily be run in a short Personal Data Notebook right on Open Humans](https://exploratory.openhumans.org/notebook/22/).
 
-After running this notebook one can easily download the newly created `GPX` files and import them into *Adobe Lightroom* and start the automated geo-tagging process. The `GPX` itself will contain a track for each day of the month, but *Lightroom* automatically gives you the option to use data of given days or all found tracks (as long as your tracks have less than 50,000 points in total). 
+After running this notebook one can easily download the newly created `GPX` files and import them into *Adobe Lightroom* and start the automated geo-tagging process. The `GPX` file itself will contain a track for each day of the month, but *Lightroom* automatically gives you the option to use data of given days or all found tracks (as long as your tracks have less than 50,000 points in total).
 
 If you want to setup the same workflow from scratch, these are the steps:
 
 - [Install the Overland app on your iPhone](https://overland.p3k.app/)
 - [Setup the Overland data retrieval on Open Humans](https://overland.openhumans.org/)
 - [Convert your data to GPX and download it](https://exploratory.openhumans.org/notebook/22/)
-- []
+- [Load the GPS track from your downloaded `GPX` file](/assets/images/overland-lightroom1.png)
+- [Select Photos and tag them](/assets/images/overland-lightroom2.png)
 
+And that's it. Or at least that's it if you remembered to set the time zone on your camera correctly - which is necessary so that the time of your GPS tracks and the metadata in your photos are aligned. But all hope is lost otherwise, as you can set a time zone offset through *Lightroom* to shift the time zones of your GPS track so that they align with the photo timestamps.
+
+With the GPS data now written to your photos e.g. [Flickr](https://www.flickr.com/photos/gedankenstuecke/) will now automatically display a map of where the photos were taken [right next to the images](https://www.flickr.com/photos/gedankenstuecke/32383449808).
+
+### Bonus uses & Google Location History!
+
+If you're not running Overland to collect your GPS data you might be able to use your [Google Location History instead](https://google-location.openhumans.org/). A notebook to convert the Google Location History data to `GPX` is available as well.
 
 ![](/assets/images/overland-googleearth.png)
