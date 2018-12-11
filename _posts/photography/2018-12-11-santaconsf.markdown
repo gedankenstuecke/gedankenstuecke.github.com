@@ -13,7 +13,7 @@ description: "Impressions of #SantaCon 2018 in San Francisco"
 
 Santa Con: What [started out as anti-capitalist performance art in San Francisco (hanging Santa included)](https://melmagazine.com/en-us/story/an-oral-history-of-santacon), has [turned into a 'reviled bar crawl'](https://web.archive.org/web/20141212222348/http://blogs.villagevoice.com/runninscared/2014/12/people-hate-santacon.php), across the US.
 
-So also in San Francisco in 2018, where hordes of Santas took over Union Square. And it wouldn't be San Francisco if a group of naked Santa was missing.
+So also in San Francisco in 2018 where hordes of Santas took over Union Square on Saturday, 2018-12-08. And it wouldn't be San Francisco if a group of naked Santa was missing.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/45342585205/in/dateposted-public/" title="Christmas Break"><img src="https://farm5.staticflickr.com/4851/45342585205_9cd19f2414_b.jpg" alt="Christmas Break"></a>
 
