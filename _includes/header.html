@@ -2,11 +2,15 @@
 
 {% if x == true %}
     <header class="home__header">
+
         <img alt="{{ site.name }}" src="{{ site.url }}/{{ site.picture }}" />
 
         <h1>{{ site.name }}</h1>
+        {% if page.title == "Photography" %}
+        <h2>{{ site.photo_bio }}</h2>
+        {% else %}
         <h2>{{ site.bio }}</h2>
-
+        {% endif %}
         <div class="home__header-social">
             <a href="http://twitter.com/{{ site.twitter }}" target="_blank"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a>
             <a href="https://github.com/{{ site.github }}" target="_blank"><svg class="icon icon-github"><use xlink:href="#icon-github"></use></svg></a>
