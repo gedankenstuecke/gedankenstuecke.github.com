@@ -19,7 +19,7 @@ $(function(){
         if(data.location.weather){
           $("#weather_condition").html(data.location.weather.condition_text);
           $("#weather_temperature").html(data.location.weather.temperature_outside);
-          $("#condition_icon").attr("class", "wi wi-yahoo-" + data.location.weather.code);
+          $("#condition_icon").attr("class", "wi wi-owm-" + data.location.weather.code);
           $("#weather").removeClass('invisible');
         }
 
