@@ -13,6 +13,7 @@ $(function(){
 
         if(data.location.place){
           $("#location_name").html(data.location.place);
+          $("#flag").attr("src", data.location.flag_url);
           $("#location_info").removeClass('invisible');
         };
 

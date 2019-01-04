@@ -1,3 +1,13 @@
 .invisible {
     visibility: hidden;
 }
+
+
+.flag {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+	height: 0.7em;
+  moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+	}
