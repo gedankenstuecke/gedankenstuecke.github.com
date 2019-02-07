@@ -22,4 +22,4 @@ People (and animals) of all ages spent hours in line, waiting to gain entrance t
 
 A full image set can be found on Flickr.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gedankenstuecke/33026151378/in/album-72157706252609234/" title="counter campaign"><img src="https://farm8.staticflickr.com/7877/33026151378_b4a90d1384_b.jpg" width="1024"  alt="counter campaign"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gedankenstuecke/albums/72157706252609234" title="Kamala Harris Presidential Campaign Kickoff"><img src="https://farm5.staticflickr.com/4856/46849453622_2cabcb6bdf_b.jpg" width="1024"  alt="Kamala Harris Presidential Campaign Kickoff"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
