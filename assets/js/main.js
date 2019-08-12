@@ -52,5 +52,9 @@ $(function(){
           $("#music_info").removeClass('invisible');
         };
 
+        if(data.oura_sleep){
+          $("#sleep").html(data.oura_sleep.sleep_duration);
+        };
+
     });
 });
