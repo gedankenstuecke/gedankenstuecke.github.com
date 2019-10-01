@@ -46,9 +46,9 @@ $(function(){
           $("#sleep").html(data.oura_sleep.sleep_duration);
           var body_temp = data.oura_sleep.temperature;
           if(body_temp>0){
-            $("#body_temperature").html("higher");
+            $("#temp_qualifier").html("higher");
           } else {
-            $("#body_temperature").html("lower");
+            $("#temp_qualifier").html("lower");
           };
           $("#activity_info").removeClass('invisible');
         };
