@@ -41,10 +41,10 @@ $(function(){
         }
 
         if(data.oura_sleep){
-          $("#body_temperature").html(data.oura.temperature);
+          $("#body_temperature").html(data.oura_sleep.temperature);
           $("#steps").html(data.oura_sleep.steps);
           $("#sleep").html(data.oura_sleep.sleep_duration);
-          var body_temp = data.oura.temperature;
+          var body_temp = data.oura_sleep.temperature;
           if(body_temp>0){
             $("#body_temperature").html("higher");
           } else {
