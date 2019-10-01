@@ -15,19 +15,6 @@ $(function(){
           $("#location_name").html(data.location.place);
           $("#flag").attr("src", data.location.flag_url);
           $("#location_info").removeClass('invisible');
-        };
-
-        if(data.location.weather){
-          $("#weather_condition").html(data.location.weather.condition_text);
-          $("#weather_temperature").html(data.location.weather.temperature_outside);
-          $("#condition_icon").attr("class", "wi wi-owm-" + data.location.weather.code);
-          $("#weather").removeClass('invisible');
-        }
-
-        if(data.activity.heart_rate){
-          $("#heart_rate").html(data.activity.heart_rate);
-          $("#steps").html(data.activity.steps);
-          $("#sleep").html(data.activity.hours_slept);
           var battery_level = data.location.battery_level*100;
           if(battery_level<10){
             $("#battery_icon").attr("class", "fas fa-battery-empty");
@@ -43,6 +30,26 @@ $(function(){
           };
           $("#battery_level").html(Math.floor(battery_level));
           $("#battery_state").html(data.location.battery_state);
+          $("#phone_info").removeClass('invisible');
+        };
+
+        if(data.location.weather){
+          $("#weather_condition").html(data.location.weather.condition_text);
+          $("#weather_temperature").html(data.location.weather.temperature_outside);
+          $("#condition_icon").attr("class", "wi wi-owm-" + data.location.weather.code);
+          $("#weather").removeClass('invisible');
+        }
+
+        if(data.oura_sleep){
+          $("#body_temperature").html(data.oura.temperature);
+          $("#steps").html(data.oura_sleep.steps);
+          $("#sleep").html(data.oura_sleep.sleep_duration);
+          var body_temp = data.oura.temperature;
+          if(body_temp>0){
+            $("#body_temperature").html("higher");
+          } else {
+            $("#body_temperature").html("lower");
+          };
           $("#activity_info").removeClass('invisible');
         };
 
@@ -50,10 +57,6 @@ $(function(){
           $("#title").html(data.music.title);
           $("#artist").html(data.music.artist);
           $("#music_info").removeClass('invisible');
-        };
-
-        if(data.oura_sleep){
-          $("#sleep").html(data.oura_sleep.sleep_duration);
         };
 
     });
