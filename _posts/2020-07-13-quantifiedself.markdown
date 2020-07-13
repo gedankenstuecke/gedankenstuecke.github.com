@@ -1,7 +1,7 @@
 ---
 title: "Quantified Self"
 layout: post
-date: 2016-02-19 22:10
+date: 2020-07-13 01:10
 tag: quantifiedself
 projects: true
 description: "Analyzing yourself"
@@ -13,6 +13,17 @@ jemoji: '<img class="emoji" title=":crystal_ball:" alt=":crystal_ball:" src="htt
 - [Socrates](https://en.wikipedia.org/wiki/The_unexamined_life_is_not_worth_living)
 
 I'm a huge fan of the *Quantified Self* movement and try to collect and mine as many personal data sources as possible. And visualizing the data to learn from this is the part I really enjoy.
+
+#### Creating a _one-button tracker_
+[![puck_js](/assets/images/puckjs.png)](/onebutton-puck/)
+
+A _one-button tracker_ is a simple button that creates a timestamped record of when and for how long you pressed it, allowing you to simply track discrete events. [I wrote a little website that turns a _Puck.js_ bluetooth beacon into one.](/onebutton-puck/)
+
+#### Effects of the COVID-19 confinement.
+
+[![](/assets/images/lockdown_rescuetime.png)](/lockdown-effects/)
+
+I looked into how the two months of confinement in Paris impacted my behaviour on a number of levels: physical activity, sleep, screen time/productivity etc. Besides [a blog post](/lockdown-effects/) this was also [a Show & Tell at the first virtual Quantified Self meetup](/QS-lockdown-life/).
 
 #### Geolocations
 [![my_routes](/assets/images/qs_travel_plot_routes_thumb.png)](/visualize-geolocations/)
