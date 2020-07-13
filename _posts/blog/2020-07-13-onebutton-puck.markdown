@@ -29,4 +29,6 @@ When you press the button of your Puck it records:
 
 The latter might be useful to figure out if you accidentally pressed it. And when you install the one-button on the Puck.js the internal clock of it will also automatically be set to your current browser time, which makes it easy to have the correct timestamps for your button presses.
 
+Of course the whole thing is open source too, and you can [find the whole code for the one-button tracker on GitHub](https://github.com/gedankenstuecke/one-button-tracker).
+
 [Give it a try](https://tzovar.as/one-button-tracker/) and [let me know what you think](https://forum.quantifiedself.com/t/cheap-open-source-one-button-tracker/8234). Happy button presses!
