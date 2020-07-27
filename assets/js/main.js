@@ -53,7 +53,7 @@ $(function(){
           $("#activity_info").removeClass('invisible');
         };
 
-        if(data.netatmo.home_distance<3){
+        if(data.netatmo.home_distance<=3){
           $("#weather_temperature").html(data.netatmo.outdoor_temperature);
           $("#cotwo").html(data.netatmo.CO2);
           $("#extra_break").html("<br/>");
