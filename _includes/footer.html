@@ -15,7 +15,11 @@
       </span>
       <span id='location_info' class='invisible'>
         He is currently in <span id='location_name'></span> <img id='flag' class='flag' src=''/> <span id='weather' class='invisible'><br/>There the condition is
-          <i><i id='condition_icon'></i> <span id='weather_condition'></span></i> and it's <span id='weather_temperature'></span>˚C.</span><br/><br/>
+          <i><i id='condition_icon'></i> <span id='weather_condition'></span></i> and it's <span id='weather_temperature'></span>˚C.</span><br/>
+      </span>
+      <span id='home_info' class='invisible'>
+        This is to <i class="fas fa-home"></i>, where it currently is <i id='volume' class='fas fa-volume-mute'></i> <span id='volume_text'></span>, with <i class="fas fa-tree"></i> <span id='cotwo'></span> ppm of CO<sub>2</sub> in the air.
+        <br/><span id='extra_break'></span>
       </span>
       <span id='activity_info' class='invisible'>
         His <i class="fas fa-thermometer-half"></i> body temperature today is <span id='body_temperature'></span> ˚C <span id='temp_qualifier'></span> than yesterday and
@@ -27,9 +31,10 @@
         His phone is <i id='battery_icon'></i> <span id='battery_level'></span>% charged and is currently <span id='battery_state'></span>.<br/><br/>
       </span>
       <span id='music_info' class='invisible'>
-        He recently danced to <i class="fas fa-music"></i> <i><span id='title'></span></i>
+        He recently listened to <i class="fas fa-music"></i> <i><span id='title'></span></i>
         by <span id='artist'></span>.<br/><br/>
       </span>
+
 
     {{ site.name }} <a href="https://creativecommons.org/publicdomain/zero/1.0/">⓪</a> {{ site.time | date: '%Y' }} <a href="{{ site.url }}/feed.xml" target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
     </br><a href="http://koppl.in/indigo">Theme</a> by <a href="http://koppl.in">koppl.in</a>. Photo by <a href="http://www.twitter.com/aath0">Athina Tzovara.</a>

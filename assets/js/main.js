@@ -53,6 +53,25 @@ $(function(){
           $("#activity_info").removeClass('invisible');
         };
 
+        if(data.netatmo.home_distance<3){
+          $("#weather_temperature").html(data.netatmo.outdoor_temperature);
+          $("#cotwo").html(data.netatmo.CO2);
+          $("#extra_break").html("<br/>");
+          $("#home_info").removeClass('invisible');
+        }
+
+        if(data.netatmo.noise<40){
+        $('#volume').attr('class', 'fas fa-volume-mute')
+        $("#volume_text").html('silent');
+      } else if (data.netatmo.noise < 50) {
+        $('#volume').attr('class', 'fas fa-volume-down')
+        $("#volume_text").html('quiet');
+
+      } else {
+        $('#volume').attr('class', 'fas fa-volume-up')
+        $("#volume_text").html('noisy');
+      }
+
         if(data.music){
           $("#title").html(data.music.title);
           $("#artist").html(data.music.artist);
