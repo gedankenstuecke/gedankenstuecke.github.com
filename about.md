@@ -33,7 +33,10 @@ Traveling a lot and liking it. Interested in [data driven self-improvement](/qua
 
 **Contact**<br/>
 Bastian Greshake Tzovaras<br/>
-*no current address*
+_CRI Research_<br/>
+8bis Rue Charles V<br/>
+75004 Paris, France
+
 
 mail: bgreshake@gmail.com <br/>
 phone: 🇪🇺 +33 766752149 or 🇺🇸 + 1 (510) 944-4298 <br/>
