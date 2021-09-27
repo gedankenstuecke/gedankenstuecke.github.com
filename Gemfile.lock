@@ -211,7 +211,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_portile2 (2.4.0)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -219,8 +218,10 @@ GEM
     minitest (5.14.2)
     multi_json (1.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.10.10)
-      mini_portile2 (~> 2.4.0)
+    nokogiri (1.12.5-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.12.5-x86_64-linux)
+      racc (~> 1.4)
     nokogumbo (2.0.4)
       nokogiri (~> 1.8, >= 1.8.4)
     octokit (4.20.0)
@@ -232,6 +233,7 @@ GEM
     public_suffix (3.1.1)
     pygments.rb (1.2.1)
       multi_json (>= 1.0.0)
+    racc (1.5.2)
     rainbow (3.0.0)
     rake (13.0.3)
     rb-fsevent (0.10.4)
@@ -270,6 +272,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   github-pages
