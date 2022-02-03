@@ -72,9 +72,9 @@ $(function(){
         $("#volume_text").html('noisy');
       }
 
-        if(data.music){
-          $("#title").html(data.music.title);
-          $("#artist").html(data.music.artist);
+        if(data.lastfm){
+          $("#title").html(data.lastfm.song_title);
+          $("#artist").html(data.lastfm.artist);
           $("#music_info").removeClass('invisible');
         };
 
