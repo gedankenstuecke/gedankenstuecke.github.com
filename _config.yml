@@ -47,7 +47,7 @@ photography: true
 about: true
 blog: true
 
-gems:
+plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
@@ -58,3 +58,14 @@ gems:
 
 jekyll-mentions:
     base_url: https://github.com
+
+author:
+    name: Bastian Greshake Tzovaras
+
+logo: assets/images/profile.jpg
+
+social:
+    name: Bastian Greshake Tzovaras
+    links:
+        - https://www.twitter.com/gedankenstuecke
+        - https://www.github.com/gedankenstuecke
