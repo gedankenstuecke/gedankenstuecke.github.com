@@ -39,5 +39,5 @@ _CRI Research_<br/>
 
 
 mail: bgreshake@gmail.com <br/>
-phone: 🇪🇺 +33 766752149 or 🇺🇸 + 1 (510) 944-4298 <br/>
+phone: 🇪🇺 +33 766752149 <br/>
 twitter: @[gedankenstuecke](http://www.twitter.com/gedankenstuecke)
