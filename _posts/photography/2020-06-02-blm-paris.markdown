@@ -8,14 +8,14 @@ photo: https://live.staticflickr.com/65535/49978185237_faeb878984_b.jpg
 description: "People gather in front of the US embassy for a BLM demonstration in June 2020"
 ---
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/49978185237/in/album-72177720301663075/" title="#BlackLivesMatter Paris"><img src="https://live.staticflickr.com/65535/49978185237_faeb878984_b.jpg" width="1024" height="683" alt="#BlackLivesMatter Paris"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/49978185237/in/album-72177720301663075/" title="#BlackLivesMatter Paris"><img src="https://live.staticflickr.com/65535/49978185237_faeb878984_b.jpg" width="1024" alt="#BlackLivesMatter Paris"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Paris came out on 2020-06-06 for local #blacklivesmatter protests today. A part of it took place in front of the US embassy at Place de la Concorde, with the police fencing off the area widely. Another group gathered at the Champs de Mars facing the Eiffel Tower.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/49978190077/in/album-72177720301663075/" title="#BlackLivesMatter Paris"><img src="https://live.staticflickr.com/65535/49978190077_ac24ba81a5_b.jpg" width="683" height="1024" alt="#BlackLivesMatter Paris"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/49978190077/in/album-72177720301663075/" title="#BlackLivesMatter Paris"><img src="https://live.staticflickr.com/65535/49978190077_ac24ba81a5_b.jpg" width="683" alt="#BlackLivesMatter Paris"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/49977927091/in/album-72177720301663075/" title="#BlackLivesMatter Paris"><img src="https://live.staticflickr.com/65535/49977927091_c4eca4ed71_b.jpg" width="1024" height="683" alt="#BlackLivesMatter Paris"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/49977927091/in/album-72177720301663075/" title="#BlackLivesMatter Paris"><img src="https://live.staticflickr.com/65535/49977927091_c4eca4ed71_b.jpg" width="1024" alt="#BlackLivesMatter Paris"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The full image set can be found on Flickr.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/albums/72177720301663075" title="BLM Paris demonstration"><img src="https://live.staticflickr.com/65535/49978190077_ac24ba81a5_c.jpg" width="1024" height="768" alt="BLM Paris demonstration"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/albums/72177720301663075" title="BLM Paris demonstration"><img src="https://live.staticflickr.com/65535/49978190077_ac24ba81a5_c.jpg" width="1024" alt="BLM Paris demonstration"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
