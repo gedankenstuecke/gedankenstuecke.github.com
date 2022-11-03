@@ -1,7 +1,7 @@
 ---
 title: "Quantified Self"
 layout: post
-date: 2020-07-13 01:10
+date: 2022-11-03 01:10
 tag: quantifiedself
 projects: true
 description: "Analyzing yourself"
@@ -12,7 +12,12 @@ jemoji: '<img class="emoji" title=":crystal_ball:" alt=":crystal_ball:" src="htt
 
 - [Socrates](https://en.wikipedia.org/wiki/The_unexamined_life_is_not_worth_living)
 
-I'm a huge fan of the *Quantified Self* movement and try to collect and mine as many personal data sources as possible. And visualizing the data to learn from this is the part I really enjoy.
+I'm a huge fan of the *Quantified Self* and *Personal Science* movement in which one uses empirical methods to answer personal questions. Related to that, I try to collect and mine as many personal data sources as possible. And visualizing the data to learn from this is the part I really enjoy.
+
+#### Impact of occupational stress
+[![](/assets/images/occupationalstress.png)](/assets/images/occupationalstress.png)
+
+I used data from an *Oura Ring* and a smart scale to understand how occupational stress and the stress of academic job applications impacted my health and well-being. A [detailed report is on the Personal Science Wiki](https://wiki.openhumans.org/wiki/Impact_of_work-related_stress). 
 
 #### Creating a _one-button tracker_
 [![puck_js](/assets/images/puckjs.png)](/onebutton-puck/)
