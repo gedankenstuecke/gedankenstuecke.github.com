@@ -44,12 +44,23 @@ $(function(){
           $("#body_temperature").html(data.oura_sleep.temperature);
           $("#steps").html(data.oura_sleep.steps);
           $("#sleep").html(data.oura_sleep.sleep_duration);
+          $("#rhr").html(data.oura_sleep.resting_hr);
           var body_temp = data.oura_sleep.temperature;
           if(body_temp>0){
             $("#temp_qualifier").html("higher");
           } else {
             $("#temp_qualifier").html("lower");
           };
+          $("#stdhr").html(data.oura_sleep.deviations.hr);
+          $("#stdtemp").html(data.oura_sleep.deviations.temp);
+          $("#stdresp").html(data.oura_sleep.deviations.breath);
+          $("#stdhrv").html(data.oura_sleep.deviations.hrv);
+          var sd_sum = data.oura_sleep.deviations.sum;
+          if(sd_sum>=5){
+            $("#illness").html("He is (very likely) under the weather.");
+          } else if (sd_sum>=3){
+            $("#illness").html("He is (maybe) a bit under the weather.");
+          }
           $("#activity_info").removeClass('invisible');
         };
 

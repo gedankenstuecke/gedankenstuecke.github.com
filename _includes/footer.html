@@ -22,10 +22,21 @@
         His <i class="fas fa-thermometer-half"></i> body temperature today is <span id='body_temperature'></span> ˚C <span id='temp_qualifier'></span> than average and
         he took <i class="fas fa-shoe-prints"></i> <span id='steps'></span> steps today.
 
-        He slept <i class="fas fa-bed"></i> <span id='sleep'></span> hours.
+        He slept <i class="fas fa-bed"></i> <span id='sleep'></span> hours with a resting heart rate of <i class="fas fa-heartbeat"></i> <span id='rhr'></span> bpm.
+        <div class="tooltip">
+          <span id="illness">He is (probably) feeling fine.</span>
+          <span class="tooltiptext">
+            As measured by standard deviations from "the usual":<br/>
+            Resting heart rate is <span id="stdhr"></span> standard deviations higher.<br/>
+            Body temperature is <span id="stdtemp"></span> standard deviations higher.<br/>
+            Respiratory rate is <span id="stdresp"></span> standard deviations lower. <br/>
+            Heart rate variability is <span id="stdhrv"></span> standard deviations lower. 
+          </span>
+        </div>
       </span>
+      <br/><br/>
       <span id='phone_info' class='invisible'>
-        His phone is <i id='battery_icon'></i> <span id='battery_level'></span>% charged and is currently <span id='battery_state'></span>.<br/><br/>
+        His phone is <i id='battery_icon'></i> <span id='battery_level'></span>% charged and is currently <span id='battery_state'></span>.
       </span>
       <span id='music_info' class='invisible'>
         He recently listened to <i class="fas fa-music"></i> <i><span id='title'></span></i>
