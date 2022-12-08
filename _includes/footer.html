@@ -2,7 +2,7 @@
   <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
   <link rel="stylesheet" type="text/css" href="/assets/css/weather-icons.css">
   <link rel="stylesheet" type="text/css" href="/assets/css/weather-icons-wind.css">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+  <script src="https://kit.fontawesome.com/fbcc0d0061.js" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   <script src="/assets/js/main.js"></script>
   <!-- Data provided by https://my-personal-api.herokuapp.com/ -->
@@ -26,11 +26,11 @@
         <div class="tooltip">
           <span id="illness">He is (probably) feeling fine.</span>
           <span class="tooltiptext">
-            As measured by standard deviations from "the usual":<br/>
-            Resting heart rate is <span id="stdhr"></span> standard deviations higher.<br/>
-            Body temperature is <span id="stdtemp"></span> standard deviations higher.<br/>
-            Respiratory rate is <span id="stdresp"></span> standard deviations lower. <br/>
-            Heart rate variability is <span id="stdhrv"></span> standard deviations lower. 
+            Standard deviations from "normal":<br/>
+            Resting <i class="fas fa-heartbeat"></i> is <span id="stdhr"></span> σ higher.<br/>
+            <i class="fas fa-thermometer-half"></i> is <span id="stdtemp"></span> σ higher.<br/>
+            <i class="fas fa-lungs"></i> rate is <span id="stdresp"></span> σ lower. <br/>
+            <i class="fas fa-heartbeat"></i> variability is <span id="stdhrv"></span> σ lower. 
           </span>
         </div>
       </span>
