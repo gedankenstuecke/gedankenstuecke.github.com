@@ -21,15 +21,15 @@ Bastian is a Senior Researcher within the [_Tools, Practices, Systems_ programme
 
 Bastian is an avid fan of Open \(Source\|Access\|Science\|Culture\|.\*\) and is convinced that basically everything is better if you add *open* in front of it. He co-founded [openSNP](https://opensnp.org) – a crowdsourced/*citizen* science open data project that puts personal genetics data into the public domain – in 2011. He also acts as the *Director of Research* for [Open Humans](https://openhumans.org) – a non-profit that provides digital and social infrastructure around personal-data driven citizen science and self-research.
 
-In the pre-pandemic days he traveled a lot and liked it. Beyond his interest in [data driven self-improvement](/quantifiedself/) he is also interested in *Do It Yourself Biology*. 
+In the pre-pandemic days he traveled a lot and liked it. Beyond his interest in [data driven self-improvement](/quantifiedself/) he is also interested in *Do It Yourself Biology*.
 
 ---
 
 **Contact**<br/>
 Bastian Greshake Tzovaras<br/>
-_CRI Research_<br/>
-8bis Rue Charles V<br/>
-75004 Paris, France
+36a Woolwich Road<br/>
+London SE10 0JU<br/>
+United Kingdom
 
 
 mail: bgreshake@gmail.com <br/>
