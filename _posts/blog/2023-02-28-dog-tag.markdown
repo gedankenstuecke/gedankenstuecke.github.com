@@ -1,0 +1,29 @@
+---
+title: "On the internet, everyone knows you're a dog"
+layout: post
+date: 2023-02-28 01:00
+tag: dog, dog tag, qr code, website
+blog: true
+---
+
+[![](/assets/images/ohana.jpg)](/assets/images/ohana.jpg)
+
+Having recently moved from Paris to London, it was time to get a new nametag for our dog Ohana – as the old one still displayed [Eugenia](https://twitter.com/eugecovernton/)'s old, French phone number. This wasn't great as many folks don't have phone contracts that allow calling abroad (thanks Brexit?). 
+
+Ohana's old name tag was custom-made with a laser cutter – for both cutting the shape and adding her name and the phone number. With no easy access to a laser cutter, we checked for more mainstream alternatives. Alas, in the process I got nerd-sniped, by stumbling over dog-nametags that include a QR code. Scanning it takes people to a landing page that has contact details, but also sends a message to the dog owner letting them know that the nametag was scanned. Optionally, those tags can give the person who scanned the tag an option to send their current location. 
+
+This all sounds pretty cool, but of course those landing pages are hosted by random companies that might just as well disappear tomorrow or whenever they run out of money (Remember [_Poken_](https://en.wikipedia.org/wiki/Poken), anyone?! 😂). 
+
+Having a non-working nametag sounds particularly bad in the already horrible scenario in which you lost your dog. So, I thought I could just make my own version of it and then I'd at least have no-one else to blame but myself when the QR code breaks. 
+
+[![](/assets/images/ohana-tag.jpg)](/assets/images/ohana-tag.jpg)
+
+I registered [ohana.fyi](https://ohana.fyi), and set up a small _Jekyll_-based static website under it. Beyond our contact details, the page also includes a [small biography of Ohana](https://ohana.fyi/about). This page could now go onto the nametag as a QR code, alongside the human-readable phone number. 
+
+As the commercial solutions offer immediate feedback when the code is scanned and also give the option to send the location I wanted to see if I could hack together a similar approach as well: As I'm already using _[IFTTT](https://ifttt.com/)_ I explored the options through it: On the trigger-side they allow for pretty generic webhooks, and on the action-side they can post to Telegram groups, which seemed like an easy option to notify both Eugenia & me at the same time and close enough to realtime. 
+
+[![](/assets/images/ohana-scan.png)](/assets/images/ohana-scan.png)
+
+I added a small URL parameter that – when present in requests – triggers a Telegram notification and also unveals a _send geolocation_ button. This allows folks who scan the tag to use the HTML geolocation API to send their location, which ends up as a Google Maps link in the Telegram group. Which – all in all – works quite well to reproduce the feature-set of the commercial QR code-based nametags! 
+
+That left only the original problem: How to get that nametag done? Well, we just ordering it as a _custom-made keychain_ 🔑 online. Why doing an easy solution when you can instead overengineer it? 🙈
