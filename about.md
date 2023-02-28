@@ -33,5 +33,5 @@ United Kingdom
 
 
 mail: bgreshake@gmail.com <br/>
-phone: 🇬🇧 +447474646919| 🇪🇺 +33766752149 <br/>
+phone: 🇬🇧 +447474646919 | 🇪🇺 +33766752149 <br/>
 twitter: @[gedankenstuecke](http://www.twitter.com/gedankenstuecke)
