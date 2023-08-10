@@ -10,6 +10,7 @@
 # THANKS
 
 	Sérgio A. Kopplin – https://github.com/sergiokopplin | creator of the jekyll template 
+	Eugenia Covernton | photographer of the avatar image
 
 # TECHNOLOGY
 
