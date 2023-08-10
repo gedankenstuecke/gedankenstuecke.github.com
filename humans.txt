@@ -2,7 +2,14 @@
 
 # TEAM
 
-	Your name - your home
+	Bastian Greshake Tzovaras
+	London, UK
+	mastodon: @gedankenstuecke@scholar.social
+    github: https://github.com/gedankenstuecke/
+
+# THANKS
+
+	Sérgio A. Kopplin – https://github.com/sergiokopplin | creator of the jekyll template 
 
 # TECHNOLOGY
 
