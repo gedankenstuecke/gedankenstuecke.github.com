@@ -5,7 +5,7 @@
 	Bastian Greshake Tzovaras
 	London, UK
 	mastodon: @gedankenstuecke@scholar.social
-    github: https://github.com/gedankenstuecke/
+	GitHub: https://github.com/gedankenstuecke/
 
 # THANKS
 
