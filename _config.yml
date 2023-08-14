@@ -17,7 +17,7 @@ description: 'Bastian Greshake Tzovaras is a researcher with a background in bio
 markdown: kramdown
 highlighter: rouge
 
-analytics: 'UA-74621325-1'
+#analytics: 'UA-74621325-1'
 #disqus: mydisqus
 facebook: bastian.greshake
 twitter: gedankenstuecke

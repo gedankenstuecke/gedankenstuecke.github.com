@@ -1,5 +1,9 @@
 # www.robotstxt.org/
 
+# nope to shitty openai 
+User-agent: GPTBot
+Disallow: /
+
 # Allow crawling of all content
 User-agent: *
 Disallow:
