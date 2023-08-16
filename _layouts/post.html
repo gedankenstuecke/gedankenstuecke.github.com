@@ -21,6 +21,11 @@ layout: default
         {% else %}
         <p class="author__bio">{{ site.bio }}</p>
         {% endif %}
+        <div class="author__share">
+            <a class="kofi" href="{{ site.kofi }}">
+                <svg class="icon icon-ko-fi"><use xlink:href="#icon-ko-fi"></use></svg><span class="icon-ko-fi">Donate a coffee</span>
+            </a>
+        </div>
     </div>
 </section>
 
