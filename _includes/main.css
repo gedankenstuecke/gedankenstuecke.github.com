@@ -845,7 +845,7 @@ footer p a {
   top: 3px;
   margin-right: 4px;
 }
-.author .author__share .twitter,
+.author .author__share .kofi,
 .author .author__share .facebook {
   display: inline;
   vertical-align: middle;
@@ -857,19 +857,19 @@ footer p a {
   margin-left: 5px;
 }
 @media only screen and (max-width: 400px) {
-  .author .author__share .twitter,
+  .author .author__share .kofi,
   .author .author__share .facebook {
     margin: 0 5px 10px 0;
   }
 }
 @media only screen and (min-width: 400px) and (max-width: 1050px) {
-  .author .author__share .twitter,
+  .author .author__share .kofi,
   .author .author__share .facebook {
     margin: 0 5px 10px 0;
   }
 }
-.author .author__share .twitter {
-  background: #4fafed;
+.author .author__share .kofi {
+  background: #14bbff;
 }
 .author .author__share .facebook {
   background: #4361b3;
