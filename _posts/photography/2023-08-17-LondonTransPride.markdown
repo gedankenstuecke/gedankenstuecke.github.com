@@ -10,13 +10,13 @@ description: "Central London on July 8th, 2023"
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/53034005786/in/album-72177720309646530/" title="London Trans Pride"><img src="https://live.staticflickr.com/65535/53034005786_bdf1b0cbd2_b.jpg" width="1024" alt="London Trans Pride"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Happening just a week after the regular _London Pride_ event/parade, the [_London Trans Pride_](https://www.instagram.com/londontranspride/) gathered more than 25,000 people for a march from Trafalgar Square to Wellington Arch at Hyde Park Corner. 
+Happening just a week after the _London Pride_ event/parade, the [_London Trans Pride_](https://www.instagram.com/londontranspride/) gathered more than 25,000 people for a march from Trafalgar Square to Wellington Arch at Hyde Park Corner – despite a rainy start. 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/53059441214/in/album-72177720309646530/" title="London Trans Pride"><img src="https://live.staticflickr.com/65535/53059441214_ceef702696_b.jpg" width="1024"  alt="London Trans Pride"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/53058671342/in/album-72177720309646530/" title="London Trans Pride"><img src="https://live.staticflickr.com/65535/53058671342_49f2565c3b_b.jpg" width="1024" alt="London Trans Pride"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-While the more mainstream crowds for the Pride Parade have turned the event into a party-like spectacle, the _London Trans Pride_ consciously keeps sticks to being a protest march.
+The more mainstream crowds attending the _London Pride_ have turned the event into a party-like spectacle. In contrast, the _London Trans Pride_ consciously sticks to being a political protest march.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/gedankenstuecke/53059643870/in/album-72177720309646530/" title="London Trans Pride"><img src="https://live.staticflickr.com/65535/53059643870_c853a5bff7_b.jpg" width="1024" alt="London Trans Pride"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
