@@ -65,11 +65,18 @@ jekyll-mentions:
 author:
     name: Bastian Greshake Tzovaras
     url: https://tzovar.as
+    image: assets/images/profile.jpg
 
 logo: assets/images/profile.jpg
 
 social:
     name: Bastian Greshake Tzovaras
     links:
-        - https://www.twitter.com/gedankenstuecke
+        - https://scholar.social/@gedankenstuecke
         - https://www.github.com/gedankenstuecke
+        - https://flickr.com/photos/gedankenstuecke
+        - https://www.instagram.com/gedankenstuecke/
+        - https://ko-fi.com/gedankenstuecke/
+        - https://orcid.org/0000-0002-9925-9623
+        - https://scholar.google.de/citations?user=xmtDOnQAAAAJ
+
