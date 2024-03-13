@@ -11,7 +11,7 @@ layout: compress
 
     <meta name=description content="{{ site.description }}">
     <meta name=author content="{{ site.name }}">
-    <link rel="canonical" href="{{ site.url page.url | absolute_url }}" />
+    <link rel="canonical" href="{% if page.url =='/' %}{{site.url}}{% else %}{{page.url | absolute_url}}{% endif %}" />
     
     <title>{{ site.name }} &middot; {{ page.title }}</title>
 
