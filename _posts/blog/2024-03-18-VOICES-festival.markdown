@@ -39,7 +39,7 @@ And the reasoning behind deploying automated decision making in institutions is 
 
 Between automating bad decisions and the increasing lack of recourse against those decisions (can't argue with a computer after all), it’s easy to see how the current use of automated decision making contributes to hollowing out our institutions in the name of efficiency and thus undermining our trust in them. That’s why the _”AI skills”_ that we came up with related to the ability to critically question power in relation to these decision making tools, including: 
 _How are these tools being developed?_ 
-_By whom and for what purpose? _
+_By whom and for what purpose?_
 And, _in the service of whom are they being deployed?_ 
 
 And based on our panel discussion, answering those questions in practice might include supporting independent journalists & journalists, being politically engaged and consider joining your union – in case your boss might be suckered into the AI hype. 
