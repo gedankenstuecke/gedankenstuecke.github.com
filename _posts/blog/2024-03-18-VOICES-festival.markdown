@@ -42,7 +42,7 @@ _How are these tools being developed?_
 _By whom and for what purpose?_
 And, _in the service of whom are they being deployed?_ 
 
-And based on our panel discussion, answering those questions in practice might include supporting independent journalists & journalists, being politically engaged and consider joining your union – in case your boss might be suckered into the AI hype. 
+And based on our panel discussion, answering those questions in practice might include supporting independent journalists & journalism, being politically engaged and consider joining your union – in case your boss might be suckered into the AI hype. 
 
 <small>
 p.s. Yesterday evening I called my mom, telling her of the panel. We ended up chatting about some <i>AI</i> use cases that she might already interact with. We talked about how the autocorrect/autocomplete on her phone would be one that she encounters a lot. Her reaction was <i>“I see, so it can be something useful, but you need to always double check, as otherwise it just makes up the weirdest things”</i> – thus accidentally paraphrasing that <a href="https://infosec.exchange/@realn2s/111717179694172705">alleged 1979 IBM slide</a>: <i> A computer can never be held accountable therefore a computer must never make a (management) decision</i>.
