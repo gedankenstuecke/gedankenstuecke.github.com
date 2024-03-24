@@ -1,7 +1,7 @@
 ---
 title: "as if the sand were stone"
 layout: post
-date: 2024-03-24 14:59
+date: 2024-03-24 14:53
 tag: photography, documentary photography 
 projects: true
 description: "A documentary photography project on rural Argentina"
