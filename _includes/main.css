@@ -444,7 +444,7 @@ pre {
   font-size: 1.85rem;
   font-weight: 300;
   font-style: normal;
-  color: #aaa;
+  color: #757575;
   width: 70%;
   margin: 0 auto 30px;
 }
@@ -559,7 +559,7 @@ pre {
   width: 25%;
   float: right;
   font-weight: 300;
-  color: #aaa;
+  color: #757575;
   text-align: right;
   transition: all ease-in-out 0.2s;
 }
@@ -573,7 +573,7 @@ pre {
 .blog .home__sections .home__sections-single .description_photo,
 .projects .home__sections .home__sections-single .description_photo,
 .photography .home__sections .home__sections-single .description_photo {
-  color: #aaa;
+  color: #757575;
 }
 .projects .home__sections-single h3,
 .photography .home__sections-single h3 {
@@ -626,7 +626,7 @@ pre {
   width: 25%;
   float: right;
   font-weight: 300;
-  color: #aaa;
+  color: #757575;
 }
 .post {
   margin-top: 125px;
@@ -646,7 +646,7 @@ pre {
   text-decoration: none;
 }
 .post span time {
-  color: #aaa;
+  color: #757575;
   font-weight: 300;
   font-size: 1.4rem;
   text-transform: uppercase;
@@ -708,7 +708,7 @@ footer {
   padding: 40px 0;
   margin: 40px 0 0;
   font-size: 1.3rem;
-  color: #aaa;
+  color: #757575;
   font-weight: 300;
   text-align: center;
   position: relative;
@@ -732,7 +732,7 @@ footer a {
 }
 footer a svg {
   width: 15px !important;
-  fill: #aaa !important;
+  fill: #757575 !important;
   transition: ease-in-out all 0.3s;
   position: relative;
   top: 3px;
@@ -741,7 +741,7 @@ footer a svg:hover {
   fill: #4b0082 !important;
 }
 footer p {
-  color: #aaa;
+  color: #757575;
   margin-top: 0;
 }
 footer p a {
@@ -790,7 +790,7 @@ footer p a {
 .author .author__bio {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
-  color: #aaa;
+  color: #757575;
   font-size: 1.3rem;
   text-align: justify;
   line-height: 1.5;
