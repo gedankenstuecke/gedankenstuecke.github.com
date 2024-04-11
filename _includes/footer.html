@@ -19,20 +19,9 @@
         <br/><span id='extra_break'></span>
       </span>
       <span id='activity_info' class='invisible'>
-        His <i class="fas fa-thermometer-half"></i> body temperature today is <span id='body_temperature'></span> ˚C <span id='temp_qualifier'></span> than average and
-        he took <i class="fas fa-shoe-prints"></i> <span id='steps'></span> steps today.
-
-        He slept <i class="fas fa-bed"></i> <span id='sleep'></span> hours with a resting heart rate of <i class="fas fa-heartbeat"></i> <span id='rhr'></span> bpm.
-        <div class="tooltip">
-          <span id="illness">He is (probably) feeling fine.</span>
-          <span class="tooltiptext">
-            Standard deviations from "normal":<br/>
-            Resting-<i class="fas fa-heartbeat"></i> is <span id="stdhr"></span> σ ↥.<br/>
-            <i class="fas fa-thermometer-half"></i> is <span id="stdtemp"></span> σ ↥.<br/>
-            <i class="fas fa-lungs"></i>-rate is <span id="stdresp"></span> σ ↧. <br/>
-            <i class="fas fa-heartbeat"></i>-variability is <span id="stdhrv"></span> σ ↧. 
-          </span>
-        </div>
+        Last night, he slept <i class="fas fa-bed"></i> <span id='sleep'></span> hours, with a measured wrist temperature of <i class="fas fa-thermometer-half"></i> <span id='body_temperature'></span> ˚C. 
+        
+        Today, he took <i class="fas fa-shoe-prints"></i> <span id='steps'></span> steps and spent <i class="fa-solid fa-sun"></i> <span id='daylight'></span> minutes in daylight so far. His last resting heart rate was <i class="fas fa-heartbeat"></i> <span id='rhr'></span> bpm and the environmental noise level around him is <i id='volume' class='fas fa-volume-down'></i> <span id='environment_noise'></span>dB.
       </span>
       <br/><br/>
       <span id='phone_info' class='invisible'>
@@ -45,5 +34,5 @@
 
 
     {{ site.name }} <a href="https://creativecommons.org/publicdomain/zero/1.0/">⓪</a> {{ site.time | date: '%Y' }} <a href="{{ site.url }}/feed.xml" title='link to rss feed' target="_blank"><svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg></a>
-    </br><a href="http://koppl.in/indigo">Theme</a> by <a href="http://koppl.in">koppl.in</a>. Photo by <a href="https://www.ecovernton.info/">Eugenia Covernton.</a>
+    <br/><a href="http://koppl.in/indigo">Theme</a> by <a href="http://koppl.in">koppl.in</a>. Photo by <a href="https://www.ecovernton.info/">Eugenia Covernton.</a>
 </footer>

@@ -19,3 +19,5 @@ For each of those four metrics I compare a given day's value to the total distri
 And it seems that this works quite okay: Since ~April 2020 I have also been tracking a variety of symptoms each day (e.g. coughs, headaches, sore throad, …) through [Quantified Flu](https://quantifiedflu.org/), providing me with some level of ground truth. And, comparing the predictions made by the physiological symptom scores to my actually recorded symptoms, there's definitely some interesting correlation! 
 
 If you want to read more about the ideas behind this heuristic, how I calculate it and how I "validated" it, you can [read a detailed report on it on the Personal Science Wiki](https://wiki.openhumans.org/wiki/A_heuristic_for_feeling_fine).
+
+**Update: Currently the heuristic is not displayed in the footer: As I've moved from an _Oura Ring_ to an _Apple Watch_ as my main wearable, I need to sort out how to adapt the calculation/export the data.**

@@ -40,29 +40,30 @@ $(function(){
           $("#weather").removeClass('invisible');
         }
 
-        if(data.oura_sleep){
-          $("#body_temperature").html(data.oura_sleep.temperature);
-          $("#steps").html(data.oura_sleep.steps);
-          $("#sleep").html(data.oura_sleep.sleep_duration);
-          $("#rhr").html(data.oura_sleep.resting_hr);
-          var body_temp = data.oura_sleep.temperature;
-          if(body_temp>0){
-            $("#temp_qualifier").html("higher");
-          } else {
-            $("#temp_qualifier").html("lower");
-          };
-          $("#stdhr").html(data.oura_sleep.deviations.hr);
-          $("#stdtemp").html(data.oura_sleep.deviations.temp);
-          $("#stdresp").html(data.oura_sleep.deviations.breath);
-          $("#stdhrv").html(data.oura_sleep.deviations.hrv);
-          var sd_sum = data.oura_sleep.deviations.sum;
-          if(sd_sum>=5){
-            $("#illness").html("He is (very likely) under the weather.");
-          } else if (sd_sum>=3){
-            $("#illness").html("He is (maybe) a bit under the weather.");
-          }
-          $("#activity_info").removeClass('invisible');
+
+        if(data.apple_health){
+          for (var i of data.apple_health.data.metrics) {
+            if(i.name == 'sleep_analysis'){
+              $("#sleep").html(i.data[0].inBed.toFixed(2));
+            }
+            if(i.name == 'step_count'){
+              $("#steps").html(i.data[0].qty);
+            }
+            if(i.name == 'resting_heart_rate'){
+              $("#rhr").html(i.data[0].qty);
+            }
+            if(i.name == 'time_in_daylight'){
+              $("#daylight").html(i.data[0].qty);
+            }
+            if(i.name == 'apple_sleeping_wrist_temperature'){
+              $("#body_temperature").html(i.data[0].qty.toFixed(2));
+            }
+            if(i.name == 'environmental_audio_exposure'){
+              $("#environment_noise").html(i.data[0].qty.toFixed(2));
+            }
         };
+        $("#activity_info").removeClass('invisible');
+        }
 
         if(data.netatmo.home_distance<3){
           $("#weather_temperature").html(data.netatmo.outdoor_temperature);
