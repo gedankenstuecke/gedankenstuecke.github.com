@@ -4,6 +4,7 @@ layout: post
 date: 2024-03-18 10:45
 tag: AI, artificial intelligence, machine learning, journalism, media literacy, science
 blog: true
+category: blog
 ---
 
 [![A photo showing bastian gesticulating on stage](/assets/images/2024-03-voices-1.jpg)](/assets/images/2024-03-voices-1.jpg)

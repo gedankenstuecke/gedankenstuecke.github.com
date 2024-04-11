@@ -4,6 +4,7 @@ layout: post
 date: 2024-03-07 23:00
 tag: R, data visualisation, data visualization, programming, maps, argentina, map
 blog: true
+category: blog
 ---
 
 [![a map of argentina with red bars showing the population density](/assets/images/2024-03-argentina-256.png)](/assets/images/2024-03-argentina-256.png)

@@ -4,6 +4,7 @@ layout: post
 date: 2020-06-15 01:00
 tag: open humans, personal data, quantified self, sleep, activity, productivity, coronavirus, COVID19
 blog: true
+category: blog
 ---
 <p style="text-align:center;"><img  src="/assets/images/lockdown_oura-header.png"/></p>
 

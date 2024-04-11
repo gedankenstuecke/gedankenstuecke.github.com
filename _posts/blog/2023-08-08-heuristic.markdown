@@ -2,8 +2,9 @@
 title: "A heuristic for feeling fine"
 layout: post
 date: 2023-08-08 01:00
-tag: personal science, wearable, wearables, quantified self
+tag: personal science, wearable, wearables, quantified self, blog
 blog: true
+category: blog
 ---
 
 [![](/assets/images/heuristic.jpeg)](/assets/images/heuristic.jpeg)

@@ -4,6 +4,7 @@ layout: post
 date: 2024-03-25 15:40
 tag: AI, artificial intelligence, machine learning, citizen science, organising, labor, unions
 blog: true
+category: blog
 ---
 
 [![James Scott & Georgia Aitkenhead sitting on panel on a stage, in the background a slide reading 'AUIK' and "Nothing about us without us"](/assets/images/2024-03-AIUK.jpg)](/assets/images/2024-03-AIUK.jpg)

@@ -62,6 +62,10 @@ plugins:
 jekyll-mentions:
     base_url: https://github.com
 
+feed:
+    categories:
+        - blog
+
 author:
     name: Bastian Greshake Tzovaras
     url: https://tzovar.as

@@ -4,6 +4,7 @@ layout: post
 date: 2018-12-03 01:00
 tag: open humans, personal api, personal data
 blog: true
+category: blog
 ---
 <img src="/assets/images/personal-api.png" style="border: solid gray 2px; border-radius:5px;" />
 <small>What the <a href="https://my-personal-api.herokuapp.com/">output of a personal API</a> can look like.</small>

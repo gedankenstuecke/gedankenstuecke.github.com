@@ -4,6 +4,7 @@ layout: post
 date: 2020-07-13 01:00
 tag: open humans, personal data, quantified self, one button tracker, one button, one-button-tracker
 blog: true
+category: blog
 ---
 <p style="text-align:center;"><img  src="/assets/images/puckjs.png"/></p>
 

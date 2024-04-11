@@ -4,6 +4,7 @@ layout: post
 date: 2020-12-03 01:00
 tag: open humans, personal data, quantified self, productivity, stress, heart rate, wearable, apple watch, apple health
 blog: true
+category: blog
 ---
 <p style="text-align:center;"><img  src="/assets/images/2020-12-02-header.png"/></p>
 

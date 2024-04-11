@@ -4,6 +4,7 @@ layout: post
 date: 2018-12-11 01:00
 tag: open humans, overland, personal data, gps, google location history
 blog: true
+category: blog
 ---
 <img src="/assets/images/overland-lightroom.png"/>
 <small>Geotagging photos in <i>Adobe Lightroom</i>.</small>

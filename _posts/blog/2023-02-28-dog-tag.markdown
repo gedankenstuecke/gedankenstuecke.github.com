@@ -4,6 +4,7 @@ layout: post
 date: 2023-02-28 01:00
 tag: dog, dog tag, qr code, website
 blog: true
+category: blog
 ---
 
 [![](/assets/images/ohana.jpg)](/assets/images/ohana.jpg)

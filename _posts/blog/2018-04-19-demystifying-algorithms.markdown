@@ -4,6 +4,7 @@ layout: post
 date: 2018-04-19 01:00
 tag: open-humans
 blog: true
+category: blog
 ---
 ![](/assets/images/sage-talk.gif)
 
