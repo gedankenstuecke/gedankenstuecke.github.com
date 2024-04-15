@@ -65,6 +65,7 @@ jekyll-mentions:
 feed:
     categories:
         - blog
+    posts_limit: 40
 
 author:
     name: Bastian Greshake Tzovaras
