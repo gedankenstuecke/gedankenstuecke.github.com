@@ -1,7 +1,7 @@
 ---
 title: "Automating data exports from Apple Health"
 layout: post
-date: 2024-04-24 17:17
+date: 2024-04-24 16:16
 tag: personal science, quantified self, personal data, health data, wearables, apple health, apple watch
 blog: true
 category: blog
