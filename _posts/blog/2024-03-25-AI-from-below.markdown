@@ -2,7 +2,14 @@
 title: "'AI' from below"
 layout: post
 date: 2024-03-25 15:40
-tags: AI artificial-intelligence machine-learning citizen-science organising labor unions
+tags: 
+- AI 
+- artificial intelligence 
+- machine-learning 
+- citizen science 
+- organising 
+- labor
+- unions
 blog: true
 category: blog
 ---
