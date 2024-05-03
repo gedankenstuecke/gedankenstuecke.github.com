@@ -39,7 +39,7 @@ layout: compress
 <body>
 
     <div class="site-wrapper">
-        {% if page.tag %}
+        {% if page.tag or page.tags %}
             <div class="post">
         {% else %}
             {% if page.title == "About" %}
