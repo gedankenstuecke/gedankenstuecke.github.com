@@ -3,6 +3,7 @@ title: "'AI' from below"
 layout: post
 date: 2024-03-25 15:40
 image: /assets/images/2024-03-AIUK.jpg
+image_alt: James Scott & Georgia Aitkenhead sitting on panel on a stage, in the background a slide reading 'AUIK' and "Nothing about us without us
 tags: [AI, artificial intelligence, machine learning, citizen science, organising, labor, unions]
 blog: true
 last_modified_at: 2024-05-03 22:44

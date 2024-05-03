@@ -30,6 +30,11 @@ layout: compress
     <meta property="og:image" content="{{ site.url }}/{{ site.logo }}">
     {% endif %}
 
+    {% if page.image_alt %}
+    <meta property="og:image:alt" content="{{ page.image_alt }}">
+    {% else %}
+    <meta property="og:image:alt" content="A photo of Bastian, as the default preview image.">
+    {% endif %}
 
     {% include jsonld.html %}
 

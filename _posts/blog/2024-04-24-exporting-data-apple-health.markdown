@@ -3,6 +3,7 @@ title: "Automating data exports from Apple Health"
 layout: post
 date: 2024-04-24 16:16
 image: /assets/images/2024-04-24-footer.png
+image_alt: A screenshot of this website's footer. Showing different personal data, including physiological, weather, location etc.
 tags: 
 - personal science 
 - quantified self 
