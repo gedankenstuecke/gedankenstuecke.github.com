@@ -12,5 +12,6 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-gist'
+gem 'jekyll-last-modified-at'
 
 gem "webrick", "~> 1.7"
