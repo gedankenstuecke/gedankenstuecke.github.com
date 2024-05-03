@@ -15,7 +15,7 @@ layout: compress
     
     <title>{{ site.name }} &middot; {{ page.title }}</title>
 
-    <meta property="og:url" content="https://tzovar.as">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:locale" content="en_US">
     <meta property="og:description"
@@ -23,6 +23,12 @@ layout: compress
     >
     <meta property="og:site_name" content="Bastian Greshake Tzovaras">
     <meta property="og:type" content="website">
+
+    {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}{{ site.logo }}">
+    {% endif %}
 
 
     {% include jsonld.html %}

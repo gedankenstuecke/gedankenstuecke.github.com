@@ -2,6 +2,7 @@
 title: "Automating data exports from Apple Health"
 layout: post
 date: 2024-04-24 16:16
+image: /assets/images/2024-04-24-footer.png
 tags: 
 - personal science 
 - quantified self 
@@ -11,7 +12,7 @@ tags:
 - apple health 
 - apple watch
 blog: true
-category: blog
+last_modified_at: 2024-05-03 22:33
 ---
 
 [![A screenshot of this website's footer. Showing different personal data, including physiological, weather, location etc."](/assets/images/2024-04-24-footer.png)](/assets/images/2024-04-24-footer.png)
