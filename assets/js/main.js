@@ -47,7 +47,7 @@ $(function(){
               $("#sleep").html(i.data[0].inBed.toFixed(2));
             }
             if(i.name == 'step_count'){
-              $("#steps").html(i.data[0].qty);
+              $("#steps").html(Math.floor(i.data[0].qty));
             }
             if(i.name == 'resting_heart_rate'){
               $("#rhr").html(i.data[0].qty);
