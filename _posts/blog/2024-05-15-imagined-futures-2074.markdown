@@ -13,7 +13,7 @@ tags:
 - citizen science
 - participatory research
 blog: true
-last_modified_at: 2024-05-15 19:01
+last_modified_at: 2024-05-15 22:21
 ---
 
 [![A black and white image of a hammer used by the Luddites](/assets/images/2024-05-15-enoch.jpg)](https://www.flickr.com/photos/gedankenstuecke/53709195737/)
@@ -51,3 +51,11 @@ By their nature, these efforts that Jo and the _AI from Below_ movement put toge
 Of course: These changes were also helped by the world [slowly running of resources such as water and electricity](https://www.theguardian.com/commentisfree/2024/mar/02/ais-craving-for-data-is-matched-only-by-a-runaway-thirst-for-water-and-energy), which made such large efforts harder and harder. _Thanks, climate change!_ But that’s not to lessen the credit to Jo and their fellow grassroots researchers. Due to their efforts that we understood how local, situated knowledge could be paired with tailor-made “AI” solutions that were created by – **and in service of** – these communities. 
 
 Back in 2074 this is a particularly old idea – going back over a hundred years: For science and technology to promote humanisation, it requires people to be active participants in it. And not just be mere _objects of scientific interest_. Thanks to the efforts of Jo – and their countless community collaborators – we are now more on that path than ever before. And with that, let us congratulate and celebrate Jo once again! Have a lovely birthday celebration! And now it’s time to sing and cut the cake! 
+
+---
+**Added 2024-05-15 23:00:** In the Q&A at the event, the question for potential readings (beyond the sources linked above) came up. My recommended readings included:
+- Dan McQuillan's [Resisting AI: An anti-facist approach to artificial intelligence](https://bristoluniversitypress.co.uk/resisting-ai), which provides a thorough review of the issues with "AI", and how mutual aid could help
+- Brian Merchant's [Blood in the Machine](https://www.bloodinthemachine.com/), the newsletter and [the book](https://www.hachettebookgroup.com/titles/brian-merchant/blood-in-the-machine/9780316487740/?lens=little-brown), which puts the Luddite's efforts for labour rights in the context of today's struggles against big tech
+- Cory Doctorow's [The Internet Con: How to Seize the Means of Computation](https://craphound.com/internetcon/) & [Chokepoint Capitalism](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-rebecca-giblin-and-cory-doctorow/) to understand how big tech operates these days, and how they use AI/data
+- Cory Doctorow's [The Internet Con: How to Seize the Means of Computation](https://craphound.com/internetcon/) & [Chokepoint Capitalism](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-rebecca-giblin-and-cory-doctorow/) to understand how big tech operates these days, and how they use AI/data
+- [We Need To Rewild The Internet](https://www.noemamag.com/we-need-to-rewild-the-internet/), a fabulous essay by Maria Farrell and Robin Berjon
