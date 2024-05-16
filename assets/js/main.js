@@ -47,10 +47,10 @@ $(function(){
               $("#sleep").html(i.data[0].inBed.toFixed(2));
             }
             if(i.name == 'step_count'){
-              $("#steps").html(Math.floor(i.data[0].qty));
+              $("#steps").html(Math.round(i.data[0].qty));
             }
             if(i.name == 'resting_heart_rate'){
-              $("#rhr").html(i.data[0].qty);
+              $("#rhr").html(Math.round(i.data[0].qty));
             }
             if(i.name == 'time_in_daylight'){
               $("#daylight").html(i.data[0].qty);
