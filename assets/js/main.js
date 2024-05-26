@@ -90,5 +90,9 @@ $(function(){
           $("#music_info").removeClass('invisible');
         };
 
+        if(data.bookwyrm){
+          $("#bookwyrm_update").html(data.bookwyrm.last_update);
+        };
+
     });
 });
