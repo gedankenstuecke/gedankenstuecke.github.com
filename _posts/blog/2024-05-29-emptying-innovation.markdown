@@ -10,14 +10,14 @@ tags:
 - science
 - policy
 blog: true
-last_modified_at: 2024-05-29 13:44
+last_modified_at: 2024-05-29 15:12
 ---
 
 [![A screenshot of a Twitter poll, question: What's your favourite tech innovation? possible answers: Illegal cab company, Illegal hotel chain, fake money for criminals or plagiarism machine"](/assets/images/2024-05-29-innovation.png)](/assets/images/2024-05-29-innovation.png)
 
 _**tl;dr**: metrics-obsessed capitalism is the reason why we can't have nice things – and [watch @tante's talk](https://www.youtube.com/watch?v=j9ksU67EW6I)_
 
-Back in Paris, I was semi-joking with friends about how the rate of technological innovations seem to have slowed down or come to a halt. The last "big" innovation that we could think about were smartphones, as carrying the internet permanently in our pockets was quite change. But ever since, it mostly felt like minor variations on existing themes, as poked fun at in the post above. Which, in itself, is old news of course, the _"it's like X but for Y"_-startup meme (think _"it's like Uber but for dogs_") goes back at least to the early 2010s if not more.
+Back in Paris, I was semi-joking with friends about how the rate of technological innovations seem to have slowed down or come to a halt. The last "big" innovation that we could think about were smartphones, as carrying the internet permanently in our pockets was quite a change. But ever since, it mostly felt like minor variations on existing themes, as poked fun at in the post above. Which, in itself, is old news of course, the _"it's like X but for Y"_-startup meme (think _"it's like Uber but for dogs_") goes back at least to the early 2010s if not more.
 
 At this year's _[re:publica](https://re-publica.com/en)_, [tante](https://tldr.nettime.org/@tante) gave a great talk titled _Empty Innovation: What are we even doing?_ ([available on YouTube](https://www.youtube.com/watch?v=j9ksU67EW6I)) that explores this phenomenon in more depth, and is more than worth the 30 minutes of your time. In brief, tante argues that we're living in an _age of stagnation_ where we might feel like there is a barrage of progress we have to adapt to all the time but in reality there is not any effective change. 
 
