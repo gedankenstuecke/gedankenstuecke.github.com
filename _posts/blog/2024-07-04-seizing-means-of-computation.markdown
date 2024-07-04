@@ -1,7 +1,7 @@
 ---
 title: "Seizing my means of computation"
 layout: post
-date: 2024-07-04 01:11
+date: 2024-07-04 16:00
 image: /assets/images/2024-07-04-fence.jpg
 image_alt: "a black and white photo of a fence overlooking some train tracks"
 tags: 
@@ -12,7 +12,7 @@ tags:
 - framework
 - darktable
 blog: true
-last_modified_at: 2024-07-04 11:11
+last_modified_at: 2024-07-04 16:00
 ---
 
 [![a black and white photo of a fence overlooking some train tracks](/assets/images/2024-07-04-fence.jpg)](/assets/images/2024-07-04-fence.jpg)
