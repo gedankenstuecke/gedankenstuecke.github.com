@@ -36,7 +36,7 @@ steps:
       - git config --global user.name "CI Builder"
       - git config --global init.defaultBranch pages
       # clone and move the target repo
-      - git clone -b pages https://codeberg.org/gedankenstuecke/pages.git
+      - git clone -b main https://codeberg.org/gedankenstuecke/pages.git
       - mv pages _site
       - chmod -R a+w _site
       - cd _site
