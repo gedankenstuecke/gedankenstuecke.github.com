@@ -1,6 +1,7 @@
 # Jekyll on Woodpecker to codeberg pages
 #
 # This file would typically be .woodpecker.yml in the root of your repository.
+# BGT 2024-07-19: should be .yaml instead?
 #
 # Takes a repository with jekyll source, generates the static site and
 # pushes the result to codeberg pages
