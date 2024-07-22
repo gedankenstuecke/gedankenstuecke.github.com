@@ -45,7 +45,7 @@ steps:
       - cd ..
       # Run Jekyll build stage
       - bundle install
-      - bundle exec jekyll build
+      - bundle exec jekyll build --verbose
       # Only needed for custom domains
       - cp domains _site/.domains
       - cp _redirects _site/_redirects
