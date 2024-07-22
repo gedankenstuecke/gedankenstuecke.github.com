@@ -43,7 +43,7 @@ And, I'm super happy to have these pages and projects now be hosted in a place a
 Let's see if replacing Google as my email provider will be on the menu next!
 
 ---
-Yes, I also use these posts to document this stuff for forgetful self, so here are the links to the setup files:
+Yes, I also use these posts to document this stuff for my forgetful self, so here are the links to the setup files:
 
 - [source repository](https://codeberg.org/gedankenstuecke/pages-source)
 - [final pages repository](https://codeberg.org/gedankenstuecke/pages)
