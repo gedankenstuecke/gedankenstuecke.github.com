@@ -50,6 +50,8 @@ Just from looking at those graphs I find the second and third pictures much more
 
 #### Addendum
 
+__EDIT 2024-07-22: These tweets don't work any longer, as I have left Twitter when Musk took over__
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Addendum to my Punctuation in Code: Brainfuck. <a href="https://t.co/bHsR4sOyfS">pic.twitter.com/bHsR4sOyfS</a></p>&mdash; Bastian Greshake (@gedankenstuecke) <a href="https://twitter.com/gedankenstuecke/status/702497843274227712">February 24, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

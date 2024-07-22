@@ -3,7 +3,7 @@ title: "Code from some mountaintop"
 layout: post
 date: 2024-07-22 15:00
 image: /assets/images/2024-07-22-hagiang.jpg
-image_alt: "a black & white photo of a person sitting on a fence overlooking a mountain scene"
+image_alt: "a black and white photo of a person sitting on a fence overlooking a mountain scene"
 tags: 
 - open source
 - foss 
@@ -13,7 +13,7 @@ blog: true
 last_modified_at: 2024-07-22 15:00
 ---
 
-[![a black & white photo of a person sitting on a fence overlooking a mountain scene](/assets/images/2024-07-22-hagiang.jpg)](/assets/images/2024-07-22-hagiang.jpg)
+[![a black and white photo of a person sitting on a fence overlooking a mountain scene](/assets/images/2024-07-22-hagiang.jpg)](/assets/images/2024-07-22-hagiang.jpg)
 
 In the [last blog post](/seizing-means-of-computation/), I had mentioned that I was looking to move away some of my personal code hosting away from GitHub (GH), to avoid being locked in into yet another tech giant. 
 Instead, I wanted to move to a proper free alternative. 
