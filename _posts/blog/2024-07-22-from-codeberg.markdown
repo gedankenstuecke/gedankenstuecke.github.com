@@ -1,7 +1,7 @@
 ---
 title: "Code from some mountaintop"
 layout: post
-date: 2024-07-22 14:00
+date: 2024-07-22 01:00
 image: /assets/images/2024-07-22-hagiang.jpg
 image_alt: "a black and white photo of a person sitting on a fence overlooking a mountain scene"
 tags: 
@@ -10,7 +10,7 @@ tags:
 - floss 
 - codeberg
 blog: true
-last_modified_at: 2024-07-22 14:00
+last_modified_at: 2024-07-22 01:00
 ---
 
 [![a black and white photo of a person sitting on a fence overlooking a mountain scene](/assets/images/2024-07-22-hagiang.jpg)](/assets/images/2024-07-22-hagiang.jpg)
