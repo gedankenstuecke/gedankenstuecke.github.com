@@ -1,5 +1,5 @@
 ---
-title: "Openly licensed Streetview with Panoramax"
+title: "Openly licensed streetview with Panoramax"
 layout: post
 date: 2024-08-23 13:45
 image: /assets/images/2024-08-23-panoramax.png
