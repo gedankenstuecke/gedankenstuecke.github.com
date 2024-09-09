@@ -23,7 +23,8 @@
 steps:
   build:
     when:
-      event: [push, pull_request,manual]
+      event: [push, manual]
+      branch: master
     # Use the official jekyll build container
     image: jekyll/jekyll
     secrets: [cbtoken, cbmail]
