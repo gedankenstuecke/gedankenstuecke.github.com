@@ -1,3 +1,9 @@
+# Moved elsewhere
+
+[![a get it on codeberg logo](codeberg.png)](https://codeberg.org/gedankenstuecke/pages-source)
+
+My website is [now being deployed through Codeberg](https://codeberg.org/gedankenstuecke/pages-source).
+
 ## Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/) [![Build Status](https://travis-ci.org/sergiokopplin/indigo.svg?branch=gh-pages)](https://travis-ci.org/sergiokopplin/indigo)
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/screen-shot.png)
